@@ -1,0 +1,56 @@
+  "AWSEBDockerrunVersion": 2,
+  "volumes": [
+    {
+      "name": "storage",
+      "host": {
+        "sourcePath": "/media/storage"
+      }
+    }
+  ],
+  "containerDefinitions": [
+    {
+      "name": "app",
+      "image": "sitespeedio/graphite",
+      "essential": true,
+      "memory": 128,
+      "portMappings": [
+        {
+          "hostPort": 80,
+          "containerPort": 8081
+        },
+        {
+          "hostPort": 2003,
+          "containerPort": 2003
+        }
+      ],
+      "mountPoints": [
+        {
+          "sourceVolume": "storage",
+          "containerPath": "/mnt/storage",
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "name": "grafana",
+      "image": "grafana/grafana",
+      "essential": true,
+      "memory": 128,
+      "portMappings": [
+        {
+          "hostPort": 8081,
+          "containerPort": 8081
+        }
+      ],
+      "links": [
+        "app"
+      ],
+      "mountPoints": [
+        {
+          "sourceVolume": "storage",
+          "containerPath": "/mnt/storage"
+        }
+      ]
+    }
+  ]
+}
