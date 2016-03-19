@@ -41,27 +41,14 @@
       ]
     },
     {
-      "name": "node-app",
-      "image": "node:0.12",
+      "name": "ghost",
+      "image": "ghost",
       "essential": true,
       "memory": 128,
       "portMappings": [
         {
-          "hostPort": 8000,
-          "containerPort": 8000
-        }
-      ],
-      "command": [
-        "/bin/bash",
-        "/usr/src/app/run.sh"
-      ],
-      "links": [
-        "tomcat-app"
-      ],
-      "mountPoints": [
-        {
-          "sourceVolume": "node-app",
-          "containerPath": "/usr/src/app"
+          "hostPort": 8080,
+          "containerPort": 2368
         }
       ]
     },
