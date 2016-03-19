@@ -10,7 +10,7 @@
   "containerDefinitions": [
     {
       "name": "app",
-      "image": "sitespeedio/graphite",
+      "image": "user/appcontainer",
       "essential": true,
       "memory": 128,
       "portMappings": [
@@ -32,8 +32,8 @@
       ]
     },
     {
-      "name": "grafana",
-      "image": "grafana/grafana",
+      "name": "app2",
+      "image": "user2/app2",
       "essential": true,
       "memory": 128,
       "portMappings": [
