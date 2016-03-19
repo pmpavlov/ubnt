@@ -50,7 +50,7 @@
         },
         {
           "sourceVolume": "nginx-conf",
-          "containerPath": "/etc/nginx",
+          "containerPath": "/etc/nginx/conf.d",
           "readOnly": true
         }
       ]
