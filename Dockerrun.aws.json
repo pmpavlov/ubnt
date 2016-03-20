@@ -22,24 +22,6 @@
   ],
   "containerDefinitions": [
     {
-      "name": "jenkins",
-      "image": "jenkins:latest",
-      "essential": true,
-      "memory": 128,
-      "portMappings": [
-        {
-          "hostPort": 8081,
-          "containerPort": 8080
-        }
-      ],
-      "mountPoints": [
-	{
-          "sourceVolume": "jenkins-home",
-          "containerPath": "/var/jenkins_home",
-        }
-      ]
-    },
-    {
       "name": "tomcat-app",
       "image": "tomcat:latest",
       "essential": true,
@@ -64,6 +46,27 @@
           "sourceVolume": "tomcat-app",
           "containerPath": "/usr/local/tomcat/webapps/ROOT",
           "readOnly": true
+        }
+      ]
+    },
+    {
+      "name": "jenkins",
+      "image": "jenkins:latest",
+      "essential": true,
+      "memory": 128,
+      "portMappings": [
+        {
+          "hostPort": 8000,
+          "containerPort": 8080
+        }
+      ],
+      "links": [
+        "tomcat-app"
+      ],
+      "mountPoints": [
+        {
+          "sourceVolume": "jenkins-home",
+          "containerPath": "/var/jenkins_home"
         }
       ]
     }
