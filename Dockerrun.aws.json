@@ -67,7 +67,7 @@
     },
     {
       "name": "tomcat-app",
-      "image": "tomcat:8.0",
+      "image": "tomcat:latest",
       "essential": true,
       "memory": 128,
       "portMappings": [
