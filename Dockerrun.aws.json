@@ -22,7 +22,7 @@
     {
       "name": "tomcat-users",
       "host": {
-        "sourcePath": "/var/app/current/tomcat/conf/tomcat-users.xml"
+        "sourcePath": "/media/tomcat/tomcat-users.xml"
       }
     },
     {
