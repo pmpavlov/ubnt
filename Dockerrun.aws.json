@@ -8,6 +8,12 @@
       }
     },
     {
+      "name": "jenkins-home",
+      "host": {
+        "sourcePath": "/var/app/current/jenkins-home"
+      }
+    },
+    {
       "name": "tomcat-users",
       "host": {
         "sourcePath": "/media/tomcat/tomcat-users.xml"
@@ -26,6 +32,12 @@
           "containerPort": 8080
         }
       ],
+      "mountPoints": [
+	{
+          "sourceVolume": "jenkins-home",
+          "containerPath": "/var/jenkins_home",
+        }
+      ]
     },
     {
       "name": "tomcat-app",
