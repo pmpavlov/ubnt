@@ -20,6 +20,12 @@
       }
     },
     {
+      "name": "tomcat-users",
+      "host": {
+        "sourcePath": "/var/app/current/tomcat/conf/tomcat-users.xml"
+      }
+    },
+    {
       "name": "nginx-conf",
       "host": {
         "sourcePath": "/var/app/current/nginx"
@@ -80,6 +86,11 @@
         {
           "sourceVolume": "awseb-logs-tomcat-app",
           "containerPath": "/usr/local/tomcat/logs"
+        },
+        {
+          "sourceVolume": "tomcat-users",
+          "containerPath": "/usr/local/tomcat/conf/tomcat-users.xml",
+          "readOnly": true
         },
         {
           "sourceVolume": "tomcat-app",
