@@ -16,6 +16,18 @@
   ],
   "containerDefinitions": [
     {
+      "name": "jenkins",
+      "image": "jenkins:latest",
+      "essential": true,
+      "memory": 128,
+      "portMappings": [
+        {
+          "hostPort": 8081,
+          "containerPort": 8080
+        }
+      ],
+    },
+    {
       "name": "tomcat-app",
       "image": "tomcat:latest",
       "essential": true,
