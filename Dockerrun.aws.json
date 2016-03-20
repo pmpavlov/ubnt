@@ -48,27 +48,6 @@
           "readOnly": true
         }
       ]
-    },
-    {
-      "name": "jenkins",
-      "image": "jenkins:latest",
-      "essential": true,
-      "memory": 128,
-      "portMappings": [
-        {
-          "hostPort": 8000,
-          "containerPort": 8080
-        }
-      ],
-      "links": [
-        "tomcat-app"
-      ],
-      "mountPoints": [
-        {
-          "sourceVolume": "jenkins-home",
-          "containerPath": "/var/jenkins_home"
-        }
-      ]
     }
   ]
 }
