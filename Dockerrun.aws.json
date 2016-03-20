@@ -44,7 +44,7 @@
         },
         {
           "sourceVolume": "jenkins-home",
-          "containerPath": "/usr/local/tomcat/webapps/jenkins",
+          "containerPath": "/usr/local/tomcat/webapps/jenkins"
         },
         {
           "sourceVolume": "tomcat-app",
