@@ -2,18 +2,6 @@
   "AWSEBDockerrunVersion": 2,
   "volumes": [
     {
-      "name": "php-app",
-      "host": {
-        "sourcePath": "/var/app/current/php-app"
-      }
-    },
-    {
-      "name": "node-app",
-      "host": {
-        "sourcePath": "/var/app/current/node-app"
-      }
-    },
-    {
       "name": "tomcat-app",
       "host": {
         "sourcePath": "/var/app/current/tomcat-app"
@@ -24,53 +12,9 @@
       "host": {
         "sourcePath": "/media/tomcat/tomcat-users.xml"
       }
-    },
-    {
-      "name": "nginx-conf",
-      "host": {
-        "sourcePath": "/var/app/current/nginx"
-      }
-    }  
+    }
   ],
   "containerDefinitions": [
-    {
-      "name": "php-app",
-      "image": "php:fpm",
-      "essential": true,
-      "memory": 128,
-      "mountPoints": [
-        {
-          "sourceVolume": "php-app",
-          "containerPath": "/var/www/html",
-          "readOnly": true
-        }
-      ]
-    },
-    {
-      "name": "node-app",
-      "image": "node:0.12",
-      "essential": true,
-      "memory": 128,
-      "portMappings": [
-        {
-          "hostPort": 8000,
-          "containerPort": 8000
-        }
-      ],
-      "command": [
-        "/bin/bash",
-        "/usr/src/app/run.sh"
-      ],
-      "links": [
-        "tomcat-app"
-      ],
-      "mountPoints": [
-        {
-          "sourceVolume": "node-app",
-          "containerPath": "/usr/src/app"
-        }
-      ]
-    },
     {
       "name": "tomcat-app",
       "image": "tomcat:latest",
@@ -95,33 +39,6 @@
         {
           "sourceVolume": "tomcat-app",
           "containerPath": "/usr/local/tomcat/webapps/ROOT",
-          "readOnly": true
-        }
-      ]
-    },
-    {
-      "name": "nginx-proxy",
-      "image": "nginx",
-      "essential": true,
-      "memory": 128,
-      "portMappings": [
-        {
-          "hostPort": 80,
-          "containerPort": 80
-        }
-      ],
-      "links": [
-        "php-app"
-      ],
-      "mountPoints": [
-        {
-          "sourceVolume": "php-app",
-          "containerPath": "/var/www/html",
-          "readOnly": true
-        },
-        {
-          "sourceVolume": "nginx-conf",
-          "containerPath": "/etc/nginx/conf.d",
           "readOnly": true
         }
       ]
