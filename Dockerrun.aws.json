@@ -8,9 +8,9 @@
       }
     },
     {
-      "name": "jenkins-home",
+      "name": "node-app",
       "host": {
-        "sourcePath": "/var/app/current/jenkins-home"
+        "sourcePath": "/var/app/current/blog"
       }
     },
     {
@@ -21,6 +21,28 @@
     }
   ],
   "containerDefinitions": [
+    {
+      "name": "node-app",
+      "image": "node:0.12",
+      "essential": true,
+      "memory": 128,
+      "portMappings": [
+        {
+          "hostPort": 4000,
+          "containerPort": 4000
+        }
+      ],
+      "command": [
+        "/bin/bash",
+        "/usr/src/app/run.sh"
+      ],
+      "mountPoints": [
+        {
+          "sourceVolume": "node-app",
+          "containerPath": "/usr/src/app"
+        }
+      ]
+    },
     {
       "name": "tomcat-app",
       "image": "tomcat:latest",
