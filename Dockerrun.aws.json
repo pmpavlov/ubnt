@@ -47,7 +47,7 @@
       "name": "tomcat-app",
       "image": "tomcat:latest",
       "essential": true,
-      "memory": 256,
+      "memory": 128,
       "portMappings": [
         {
           "hostPort": 8080,
