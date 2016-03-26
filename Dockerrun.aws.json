@@ -4,13 +4,7 @@
     {
       "name": "tomcat-app",
       "host": {
-        "sourcePath": "/var/app/current/tomcat-app"
-      }
-    },
-    {
-      "name": "node-app",
-      "host": {
-        "sourcePath": "/var/app/current/blog"
+        "sourcePath": "/var/app/current/public"
       }
     },
     {
@@ -22,32 +16,10 @@
   ],
   "containerDefinitions": [
     {
-      "name": "node-app",
-      "image": "node:0.12",
-      "essential": true,
-      "memory": 256,
-      "portMappings": [
-        {
-          "hostPort": 4000,
-          "containerPort": 4000
-        }
-      ],
-      "command": [
-        "/bin/bash",
-        "/usr/src/app/run.sh"
-      ],
-      "mountPoints": [
-        {
-          "sourceVolume": "node-app",
-          "containerPath": "/usr/src/app"
-        }
-      ]
-    },
-    {
       "name": "tomcat-app",
       "image": "tomcat:latest",
       "essential": true,
-      "memory": 128,
+      "memory": 256,
       "portMappings": [
         {
           "hostPort": 8080,
