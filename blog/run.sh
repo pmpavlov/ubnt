@@ -1,5 +1,6 @@
 #!/bin/bash
 cd /usr/src/app
 npm install
-npm start
+hexo server
+#npm start
 
