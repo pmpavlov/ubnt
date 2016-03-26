@@ -25,7 +25,7 @@
       "name": "node-app",
       "image": "node:0.12",
       "essential": true,
-      "memory": 128,
+      "memory": 200,
       "portMappings": [
         {
           "hostPort": 4000,
