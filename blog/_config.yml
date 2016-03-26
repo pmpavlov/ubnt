@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Pavlov Site 
-subtitle: This is Just super easy way of deplying
-description: This is the descriptin of the site 
-author: Pavel Pavlov
-language: en
-timezone: UTC
+title: Hexo
+subtitle:
+description:
+author: John Doe
+language:
+timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://localhost
+url: http://yoursite.com
 root: /
-permalink: :day/:month/:year/:title/
+permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
@@ -29,7 +29,7 @@ skip_render:
 
 # Writing
 new_post_name: :title.md # File name of new posts
-default_layout: page
+default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
@@ -52,7 +52,7 @@ tag_map:
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: DD-MM-YYYY
+date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 
 # Pagination
@@ -63,16 +63,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hueman
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
-
-#Admin 
-admin:
-  username: ppavlov
-  password_hash: $2a$08$5FIFWEgWSjSLxlKOZn7OX.X0Zq45dhiq9.qA10xPZmbloEuB0V7sS
-  secret: secretkeyforbegines
-

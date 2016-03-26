@@ -1,7 +1,7 @@
 #!/bin/bash
 cd /usr/src/app
-npm install hexo
+npm install hexo -g
 npm install
-hexo server
+hexo server -i 0.0.0.0
 #npm start
 
