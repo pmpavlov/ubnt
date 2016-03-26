@@ -65,10 +65,6 @@
           "readOnly": true
         },
         {
-          "sourceVolume": "jenkins-home",
-          "containerPath": "/usr/local/tomcat/webapps/jenkins"
-        },
-        {
           "sourceVolume": "tomcat-app",
           "containerPath": "/usr/local/tomcat/webapps/ROOT",
           "readOnly": true
