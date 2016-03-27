@@ -4,9 +4,9 @@
   <subtitle>Pavlov Personal site</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://fe.myfreebsd.co.uk/"/>
   <updated>2016-03-27T12:13:29.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://fe.myfreebsd.co.uk/</id>
   
   <author>
     <name>Pavel Pavlov</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>MacDown and I</title>
-    <link href="http://yoursite.com/27/03/2016/MacDown-and-I/"/>
-    <id>http://yoursite.com/27/03/2016/MacDown-and-I/</id>
+    <link href="http://fe.myfreebsd.co.uk/27/03/2016/MacDown-and-I/"/>
+    <id>http://fe.myfreebsd.co.uk/27/03/2016/MacDown-and-I/</id>
     <published>2016-03-27T11:07:13.000Z</published>
     <updated>2016-03-27T12:13:29.000Z</updated>
     
@@ -123,14 +123,14 @@ Header 2
     </summary>
     
     
-      <category term="macdown" scheme="http://yoursite.com/tags/macdown/"/>
+      <category term="macdown" scheme="http://fe.myfreebsd.co.uk/tags/macdown/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/26/03/2016/hello-world/"/>
-    <id>http://yoursite.com/26/03/2016/hello-world/</id>
+    <link href="http://fe.myfreebsd.co.uk/26/03/2016/hello-world/"/>
+    <id>http://fe.myfreebsd.co.uk/26/03/2016/hello-world/</id>
     <published>2016-03-26T20:09:04.000Z</published>
     <updated>2016-03-26T20:09:23.000Z</updated>
     
@@ -156,8 +156,8 @@ Header 2
   
   <entry>
     <title>Post 2</title>
-    <link href="http://yoursite.com/25/03/2016/Post-2/"/>
-    <id>http://yoursite.com/25/03/2016/Post-2/</id>
+    <link href="http://fe.myfreebsd.co.uk/25/03/2016/Post-2/"/>
+    <id>http://fe.myfreebsd.co.uk/25/03/2016/Post-2/</id>
     <published>2016-03-25T23:04:51.000Z</published>
     <updated>2016-03-26T19:26:44.000Z</updated>
     
@@ -177,8 +177,8 @@ Header 2
   
   <entry>
     <title>This is just a test</title>
-    <link href="http://yoursite.com/25/03/2016/This-is-just-a-test/"/>
-    <id>http://yoursite.com/25/03/2016/This-is-just-a-test/</id>
+    <link href="http://fe.myfreebsd.co.uk/25/03/2016/This-is-just-a-test/"/>
+    <id>http://fe.myfreebsd.co.uk/25/03/2016/This-is-just-a-test/</id>
     <published>2016-03-25T21:50:00.000Z</published>
     <updated>2016-03-26T19:26:44.000Z</updated>
     

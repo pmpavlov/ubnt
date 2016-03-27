@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://yoursite.com</loc>
+        <loc>http://fe.myfreebsd.co.uk</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>http://yoursite.com/27/03/2016/MacDown-and-I/</loc>
+        <loc>http://fe.myfreebsd.co.uk/27/03/2016/MacDown-and-I/</loc>
         <lastmod>2016-03-27T12:13:29.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -15,7 +15,7 @@
     </url>
 
     <url>
-        <loc>http://yoursite.com/26/03/2016/hello-world/</loc>
+        <loc>http://fe.myfreebsd.co.uk/26/03/2016/hello-world/</loc>
         <lastmod>2016-03-26T20:09:23.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -23,7 +23,7 @@
     </url>
 
     <url>
-        <loc>http://yoursite.com/25/03/2016/Post-2/</loc>
+        <loc>http://fe.myfreebsd.co.uk/25/03/2016/Post-2/</loc>
         <lastmod>2016-03-26T19:26:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -31,7 +31,7 @@
     </url>
 
     <url>
-        <loc>http://yoursite.com/25/03/2016/This-is-just-a-test/</loc>
+        <loc>http://fe.myfreebsd.co.uk/25/03/2016/This-is-just-a-test/</loc>
         <lastmod>2016-03-26T19:26:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
