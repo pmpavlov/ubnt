@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Personal Site</title>
-  <subtitle>Pavlov Personal site</subtitle>
+  <title>Tiny Blog</title>
+  <subtitle>Personal site</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://fe.myfreebsd.co.uk/"/>
@@ -52,7 +52,7 @@ Header 2
 #### Header 4
 ##### Header 5
 ###### Header 6
-&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&quot;Links-and-Email&quot;&gt;&lt;a href=&quot;#Links-and-Email&quot; class=&quot;headerlink&quot; title=&quot;Links and Email&quot;&gt;&lt;/a&gt;Links and Email&lt;/h3&gt;&lt;h4 id=&quot;Inline&quot;&gt;&lt;a href=&quot;#Inline&quot; class=&quot;headerlink&quot; title=&quot;Inline&quot;&gt;&lt;/a&gt;Inline&lt;/h4&gt;&lt;p&gt;Just put angle brackets around an email and it becomes clickable: &lt;a href=&quot;&amp;#109;&amp;#x61;&amp;#105;&amp;#108;&amp;#x74;&amp;#x6f;&amp;#x3a;&amp;#x75;&amp;#114;&amp;#97;&amp;#110;&amp;#117;&amp;#x73;&amp;#x6a;&amp;#x72;&amp;#64;&amp;#103;&amp;#109;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&quot;&gt;&amp;#x75;&amp;#114;&amp;#97;&amp;#110;&amp;#117;&amp;#x73;&amp;#x6a;&amp;#x72;&amp;#64;&amp;#103;&amp;#109;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;&lt;br&gt;&lt;code&gt;&amp;lt;uranusjr@gmail.com&amp;gt;&lt;/code&gt;  &lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&quot;Links-and-Email&quot;&gt;&lt;a href=&quot;#Links-and-Email&quot; class=&quot;headerlink&quot; title=&quot;Links and Email&quot;&gt;&lt;/a&gt;Links and Email&lt;/h3&gt;&lt;h4 id=&quot;Inline&quot;&gt;&lt;a href=&quot;#Inline&quot; class=&quot;headerlink&quot; title=&quot;Inline&quot;&gt;&lt;/a&gt;Inline&lt;/h4&gt;&lt;p&gt;Just put angle brackets around an email and it becomes clickable: &lt;a href=&quot;&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#x74;&amp;#111;&amp;#58;&amp;#117;&amp;#x72;&amp;#97;&amp;#x6e;&amp;#x75;&amp;#x73;&amp;#x6a;&amp;#x72;&amp;#x40;&amp;#x67;&amp;#109;&amp;#x61;&amp;#x69;&amp;#x6c;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#x6d;&quot;&gt;&amp;#117;&amp;#x72;&amp;#97;&amp;#x6e;&amp;#x75;&amp;#x73;&amp;#x6a;&amp;#x72;&amp;#x40;&amp;#x67;&amp;#109;&amp;#x61;&amp;#x69;&amp;#x6c;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#x6d;&lt;/a&gt;&lt;br&gt;&lt;code&gt;&amp;lt;uranusjr@gmail.com&amp;gt;&lt;/code&gt;  &lt;/p&gt;
 &lt;p&gt;Same thing with urls: &lt;a href=&quot;http://macdown.uranusjr.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://macdown.uranusjr.com&lt;/a&gt;&lt;br&gt;&lt;code&gt;&amp;lt;http://macdown.uranusjr.com&amp;gt;&lt;/code&gt;  &lt;/p&gt;
 &lt;p&gt;Perhaps you want to some link text like this: &lt;a href=&quot;http://macdown.uranusjr.com&quot; title=&quot;Title&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Macdown Website&lt;/a&gt;&lt;br&gt;&lt;code&gt;[Macdown Website](http://macdown.uranusjr.com &amp;quot;Title&amp;quot;)&lt;/code&gt; (The title is optional)  &lt;/p&gt;
 &lt;h4 id=&quot;Reference-style&quot;&gt;&lt;a href=&quot;#Reference-style&quot; class=&quot;headerlink&quot; title=&quot;Reference style&quot;&gt;&lt;/a&gt;Reference style&lt;/h4&gt;&lt;p&gt;Sometimes it looks too messy to include big long urls inline, or you want to keep all your urls together.  &lt;/p&gt;
@@ -128,65 +128,691 @@ Header 2
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://fe.myfreebsd.co.uk/26/03/2016/hello-world/"/>
-    <id>http://fe.myfreebsd.co.uk/26/03/2016/hello-world/</id>
-    <published>2016-03-26T20:09:04.000Z</published>
-    <updated>2016-03-26T20:09:23.000Z</updated>
+    <title>Apple issues first Australian bond, raises more than AU$1.2B</title>
+    <link href="http://fe.myfreebsd.co.uk/19/08/2015/apple-issues-first-australian-bond-raises-more-than-au1-2b/"/>
+    <id>http://fe.myfreebsd.co.uk/19/08/2015/apple-issues-first-australian-bond-raises-more-than-au1-2b/</id>
+    <published>2015-08-19T01:39:00.000Z</published>
+    <updated>2016-03-27T21:19:00.000Z</updated>
     
-    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt; By &lt;a href=&quot;mailto:mikeycampbell@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Mikey Campbell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; content=&quot;2015-08-19T21:39:00-04:00&quot;&gt;Wednesday, August 19, 2015, 06:39 pm PT (09:39 pm ET)&lt;/span&gt;&lt;br&gt;&lt;span itemprop=&quot;articleBody&quot; readability=&quot;16&quot;&gt;&lt;span&gt;As anticipated, Apple on Thursday local Australia time issued an Australian dollar-denominated bond that according to one report has already reached AU$1.2 billion, or about $883 million.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/v9/images/1x1-white.jpg&quot; alt=&quot;&quot;&gt;&lt;noscript&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/gallery/13970-9140-890238934-l.jpg&quot; alt=&quot;&quot;&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Apple’s first Australian issuance came in the form of a two-part “benchmark” &lt;a href=&quot;http://www.smh.com.au/business/markets/apple-launches-australian-dollar-kangaroo-bond-issue-20150819-gj3b3j.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;bond sale consisting&lt;/a&gt; of four- and seven-year notes, reports &lt;em&gt;The Sydney Morning Herald&lt;/em&gt;. &lt;/p&gt;
+&lt;p&gt;The publication notes price guidance of the fixed and floating rate four-year bonds is pegged at around 3 percent, while the seven-year bonds are being offered at 3.80 percent, or 0.7 percent and 1.15 percent over bank rates, respectively. Apple’s Australian bond is managed by Goldman Sachs, Commonwealth Bank and Deutsche Bank.&lt;/p&gt;
+&lt;p&gt;Reports earlier this week suggested Apple’s debt offering would be land somewhere between &lt;a href=&quot;http://appleinsider.com/articles/15/08/17/apple-prepping-first-australian-dollar-denominated-bond-offering---report&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;AU$500 million&lt;/a&gt; and AU$1 billion. &lt;/p&gt;
+&lt;p&gt;Prior to today’s bond sale, Apple notably sold debt in U.S. dollars and Euros, but has more recently taken an interest in low rate areas in Asia and Europe. For example, the company raised about $1 billion in a Swiss franc-denominated offering &lt;a href=&quot;http://appleinsider.com/articles/15/02/10/apple-to-raise-at-least-108-billion-from-two-part-swiss-bond-sale&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;in February&lt;/a&gt;, $2 billion in yen-denominated bonds &lt;a href=&quot;http://appleinsider.com/articles/15/06/04/apples-first-ever-japanese-yen-bond-raises-2-billion-us&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;in June&lt;/a&gt; and another $2 billion in British pounds &lt;a href=&quot;http://appleinsider.com/articles/15/07/24/apple-announces-first-sterling-denominated-bond-valued-at-2b-us&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;last month&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Apple is thought to be leveraging international debt to fund its domestic capital return program. The company is slated pass $200 billion back to shareholders by the end of March 2017, but is reluctant to repatriate overseas cash due to high U.S. tax rates. Of its $220 billion cash hoard, more than $190 billion is held by offshore subsidiaries. &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;p&gt; By &lt;a href=&quot;mailto:mikeycampbell@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Mikey Campbell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; cont
     
     </summary>
+    
+      <category term="MacOS" scheme="http://fe.myfreebsd.co.uk/categories/macos/"/>
     
     
   </entry>
   
   <entry>
-    <title>Post 2</title>
-    <link href="http://fe.myfreebsd.co.uk/25/03/2016/Post-2/"/>
-    <id>http://fe.myfreebsd.co.uk/25/03/2016/Post-2/</id>
-    <published>2016-03-25T23:04:51.000Z</published>
-    <updated>2016-03-26T19:26:44.000Z</updated>
+    <title>Apple outs iOS 9 Maps transit data sources, new business listing aggregators</title>
+    <link href="http://fe.myfreebsd.co.uk/19/08/2015/apple-outs-ios-9-maps-transit-data-sources-new-business-listing-aggregators/"/>
+    <id>http://fe.myfreebsd.co.uk/19/08/2015/apple-outs-ios-9-maps-transit-data-sources-new-business-listing-aggregators/</id>
+    <published>2015-08-18T23:39:00.000Z</published>
+    <updated>2016-03-27T21:22:31.000Z</updated>
     
-    <content type="html">&lt;p&gt;title: Post 2&lt;/p&gt;
-&lt;h2 id=&quot;tags-test&quot;&gt;&lt;a href=&quot;#tags-test&quot; class=&quot;headerlink&quot; title=&quot;tags:test&quot;&gt;&lt;/a&gt;tags:test&lt;/h2&gt;&lt;p&gt;Here is some test i have to find a way of adding the images &lt;/p&gt;
+    <content type="html">&lt;p&gt; By &lt;a href=&quot;mailto:news@appleinsider.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;AppleInsider Staff &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; content=&quot;2015-08-19T19:39:00-04:00&quot;&gt;Wednesday, August 19, 2015, 04:39 pm PT (07:39 pm ET)&lt;/span&gt;&lt;br&gt;&lt;span itemprop=&quot;articleBody&quot; readability=&quot;27&quot;&gt;&lt;span&gt;In a change to its Apple Maps Acknowledgements webpage, Apple revealed an initial list of data providers used to populate the upcoming transit mapping feature in Maps for iOS 9, as well as two new aggregators of business listings. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/v9/images/1x1-white.jpg&quot; alt=&quot;&quot;&gt;&lt;noscript&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/gallery/13969-9138-13182-7751-IMG_2014-l-l.jpg&quot; alt=&quot;&quot;&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;While Apple’s Maps &lt;a href=&quot;http://gspe21.ls.apple.com/html/attribution-5.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;attribution page&lt;/a&gt; shows a revision date of Jun. 4, 2015, &lt;em&gt;Apple Maps Marketing&lt;/em&gt; believes the transit sources are &lt;a href=&quot;http://applemapsmarketing.com/2015/08/dac-group-position-technologies-now-feeding-business-listings-to-apple-maps/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;indeed new&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Apple announced earlier this year that transit directions will initially be available in Baltimore, Berlin, Chicago, London, Mexico City, New York City, Philadelphia, San Francisco, Toronto, and Washington D.C., as well as 30 cities in China. The newly published list of providers gives a closer look at what to expect from transit assets in Canada, Germany, the U.S. and UK, including major cities like Berlin, London, New York, San Francisco and Toronto.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Apple Maps transit data providers:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Berlin transit data © 2014-2015 VBB Verkehrsverbund Berlin-Brandenburg GmbH.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Berlin transit data from Ostseeland Verkehr GmbH/Alle Angaben ohne Gewähr.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Germany transit data from Flixbus, a European intercity bus service provider: &lt;a href=&quot;https://www.flixbus.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://www.flixbus.com&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;London transit data © 2015 &lt;a href=&quot;http://www.itoworld.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;ITO World Ltd.&lt;/a&gt; All rights reserved. Contains public sector information licensed under the Open Government Licence v2.0.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;MTA and the MTA logo are trademarks of the &lt;a href=&quot;http://www.mta.info/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Metropolitan Transportation Authority&lt;/a&gt; and used with permission of the Metropolitan Transportation Authority.&lt;/li&gt;
+&lt;li&gt;AirTrain JFK data from &lt;a href=&quot;http://www.511ny.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;511 NY&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Westchester County transit data from &lt;a href=&quot;http://www.511ny.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;511 NY&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Alameda County transit data © 2015&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;San Francisco - Bay Area transit data provided by MTC’s &lt;a href=&quot;http://511.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;511.org&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;San Francisco Municipal Transportation Agency data reproduced with permission granted by the City and County of San Francisco. The information has been provided by means of a nonexclusive, limited, and revocable license granted by the City and County of San Francisco.&lt;/li&gt;
+&lt;li&gt;Brampton transit data © 2015, The City of Brampton (All rights reserved.) Subject to terms at: &lt;a href=&quot;http://www.brampton.ca/EN/City-Hall/OpenGov/Open-Data-Catalogue/Pages/Terms-of-Use.aspx&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.brampton.ca/EN/City-Hall/OpenGov/Open-Data-Catalogue/Pages/Terms-of-Use.aspx&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Burlington transit data from the City of Burlington. Subject to terms at: &lt;a href=&quot;http://www.burlington.ca/en/services-for-you/resources/Initiative%20Projects/Open_data/TermsOfUse.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.burlington.ca/en/services-for-you/resources/Initiative Projects/Open_data/TermsOfUse.pdf&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.grt.ca/en/index.asp&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Grand River Transit&lt;/a&gt; data provided by the Regional Municipality of Waterloo under license.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://guelph.ca/living/getting-around/bus/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Guelph Transit&lt;/a&gt; data provided by the City of Guelph under an open government license.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.hamilton.ca/CityServices/transit/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hamilton Street Railways&lt;/a&gt; public sector data made available under the City of Hamilton’s open data license.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ontario transit data provided with permission of &lt;a href=&quot;http://www.gotransit.com/publicroot/en/default.aspx&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Metrolinx&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;MiWay transit data from the City of Mississauga. Subject to terms at: &lt;a href=&quot;http://www5.mississauga.ca/research_catalogue/CityofMississauga_TermsofUse.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www5.mississauga.ca/research_catalogue/CityofMississauga_TermsofUse.pdf&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;Contains information licensed under the Open Government Licence - Niagara Region &lt;a href=&quot;http://www.niagararegion.ca/government/opendata/terms-of-use.aspx&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.niagararegion.ca/government/opendata/terms-of-use.aspx&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.oakvilletransit.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Oakville Transit&lt;/a&gt; data licensed under the Open Government Licence - Town of Oakville.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ttc.ca/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Toronto Transit&lt;/a&gt; data licensed under the Open Government Licence - Toronto.&lt;br&gt;As for business listings, Apple added data gathered by Position Technologies and DAC Group.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Apple is expected to release iOS 9 alongside new iPhone models at a special event in September. Aside from mapping &lt;a href=&quot;http://appleinsider.com/articles/15/07/27/inside-ios-9-apples-maps-app-gets-smarter-with-automatic-directions-based-on-user-habits&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;enhancements&lt;/a&gt;, the next-gen operating system features a &lt;a href=&quot;http://appleinsider.com/articles/15/07/28/inside-ios-9-notification-center-streamlined-with-app-alerts-sorted-by-date-apple-watch-battery-widget-new-ipad-view&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;revamped&lt;/a&gt; Notification Center and app switcher, &lt;a href=&quot;http://appleinsider.com/articles/15/07/29/ios-9-tips-manually-enable-low-power-mode-to-maximize-your-iphones-battery-life&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;low battery mode&lt;/a&gt;, dedicated &lt;a href=&quot;http://appleinsider.com/articles/15/08/06/new-ios-9-public-beta-prompts-users-to-install-icloud-drive-app-&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iCloud Drive app&lt;/a&gt;, &lt;a href=&quot;http://appleinsider.com/articles/15/08/11/att-wi-fi-calling-starts-rolling-out-for-some-ios-9-beta-testers&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Wi-Fi calling for AT&amp;amp;T&lt;/a&gt;, numerous user interface tweaks and much more.&lt;br&gt;&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;title: Post 2&lt;/p&gt;
-&lt;h2 id=&quot;tags-test&quot;&gt;&lt;a href=&quot;#tags-test&quot; class=&quot;headerlink&quot; title=&quot;tags:test&quot;&gt;&lt;/a&gt;tags:test&lt;/h2&gt;&lt;p&gt;Here is some test i h
+      &lt;p&gt; By &lt;a href=&quot;mailto:news@appleinsider.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;AppleInsider Staff &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; c
     
     </summary>
+    
+      <category term="MacOS" scheme="http://fe.myfreebsd.co.uk/categories/macos/"/>
     
     
   </entry>
   
   <entry>
-    <title>This is just a test</title>
-    <link href="http://fe.myfreebsd.co.uk/25/03/2016/This-is-just-a-test/"/>
-    <id>http://fe.myfreebsd.co.uk/25/03/2016/This-is-just-a-test/</id>
-    <published>2016-03-25T21:50:00.000Z</published>
-    <updated>2016-03-26T19:26:44.000Z</updated>
+    <title>Samsung to petition Supreme Court over Apple patent fight</title>
+    <link href="http://fe.myfreebsd.co.uk/18/08/2015/samsung-to-petition-supreme-court-over-apple-patent-fight/"/>
+    <id>http://fe.myfreebsd.co.uk/18/08/2015/samsung-to-petition-supreme-court-over-apple-patent-fight/</id>
+    <published>2015-08-18T22:29:00.000Z</published>
+    <updated>2016-03-27T21:23:13.000Z</updated>
     
-    <content type="html"></content>
+    <content type="html">&lt;p&gt; By &lt;a href=&quot;mailto:mikeycampbell@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Mikey Campbell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; content=&quot;2015-08-19T18:29:00-04:00&quot;&gt;Wednesday, August 19, 2015, 03:29 pm PT (06:29 pm ET)&lt;/span&gt;&lt;br&gt;&lt;span itemprop=&quot;articleBody&quot; readability=&quot;19&quot;&gt;&lt;span&gt;After being denied an en banc rehearing with the U.S. Court of Appeals for the Federal Circuit over a prior decision that kept intact Apple’s multi-million dollar patent trial win, Samsung has voiced intent to argue the case in front of the Supreme Court. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/v9/images/1x1-white.jpg&quot; alt=&quot;&quot;&gt;&lt;noscript&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/gallery/13968-9137-Apple-v-Samsung-2-130204-l.jpg&quot; alt=&quot;&quot;&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Samsung said in a &lt;a href=&quot;https://www.scribd.com/doc/275226287/Samsung-Supreme-Court-Petition&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;court filing&lt;/a&gt; on Wednesday that it plans to petition the Supreme Court to hear an appeal over damages awarded to Apple in the first &lt;em&gt;Apple v. Samsung&lt;/em&gt; jury trial. The decision comes &lt;a href=&quot;http://appleinsider.com/articles/15/08/13/samsung-denied-rehearing-of-appeal-over-400m-patent-infringement-ruling&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;one week&lt;/a&gt; after the company saw its request for a full-panel CAFC rehearing shot down.&lt;/p&gt;
+&lt;p&gt;Ended in 2012, the first California action left Samsung initially facing $1.05 billion in damages payments for infringing on Apple’s intellectual property, though a subsequent partial retrial and successful CAFC appeal reduced that amount to $548 million. &lt;/p&gt;
+&lt;p&gt;The latest appeal has Samsung arguing against some $399 million worth of damages. In its failed attempt at a CAFC rehearing, the Korean company argued that complex electronic devices, such as smartphones or tablets, contain “hundreds or thousands of different patented technologies,” of which Apple’s asserted patents only cover minor features.&lt;/p&gt;
+&lt;p&gt;The Supreme Court is Samsung’s last chance at relief, though acceptance of its petition is not guaranteed. Indeed, as noted by &lt;em&gt;MacWorld&lt;/em&gt;, the odds are stacked against a Supreme Court showing considering the court only accepts &lt;a href=&quot;http://www.macworld.com/article/2973457/legal/samsung-to-appeal-apple-patent-loss-to-supreme-court.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;about 75 petitions&lt;/a&gt; out of some 10,000 per year.&lt;/p&gt;
+&lt;p&gt;A motion to take a technology patent gripe to the highest court in the land — if it is indeed heard — involves by its nature important ramifications to future patent reform and the tech sector in general. As noted by Samsung in its petition:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;First, the petition will present the question whether a district court must ensure, through proper claim construction and jury instructions, that a finding of design-patent infringement does not rest on unprotected functional elements of the design. Second, the petition will present the question whether an award of an infringer’s entire profits exceeds the scope of Section 289 where a patented design is only a minor feature of an infringing product.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt; Design patent claim and construction is also being questioned, in this case as it applies to Apple’s asserted iPhone and iPad properties. As it stands, America’s labyrinthine patent system is playing no small part in complicating ongoing &lt;em&gt;Apple v. Samsung&lt;/em&gt; proceedings, and has thus drawn an equal amount of scrutiny. Just this week, the U.S. Patent and Trademark Office issued a non-final determination invalidating design IP covering the original iPhone on multiple counts of prior art, at least two of which involved Apple’s own patents. &lt;/p&gt;
+&lt;p&gt;Despite wrapping up three years ago, the first &lt;em&gt;Apple v. Samsung&lt;/em&gt; action, and two subsequent California trials, are still slogging through the U.S. court system on multiple appeals lodged by both parties. &lt;/p&gt;
+&lt;div align=&quot;center&quot; readability=&quot;1&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https://www.scribd.com/doc/275226287/Samsung-Supreme-Court-Petition&quot; title=&quot;View Samsung Supreme Court Petition on Scribd&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Samsung Supreme Court Petition&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+</content>
     
     <summary type="html">
     
+      &lt;p&gt; By &lt;a href=&quot;mailto:mikeycampbell@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Mikey Campbell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; cont
+    
     </summary>
+    
+      <category term="MacOS" scheme="http://fe.myfreebsd.co.uk/categories/macos/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Apple Watch Sport owners report unexpected rear logo damage, other text scratching off</title>
+    <link href="http://fe.myfreebsd.co.uk/18/08/2015/apple-watch-sport-owners-report-unexpected-rear-logo-damage-other-text-scratching-off/"/>
+    <id>http://fe.myfreebsd.co.uk/18/08/2015/apple-watch-sport-owners-report-unexpected-rear-logo-damage-other-text-scratching-off/</id>
+    <published>2015-08-18T21:48:48.000Z</published>
+    <updated>2016-03-27T21:21:32.000Z</updated>
+    
+    <content type="html">&lt;p&gt; By &lt;a href=&quot;mailto:rfingas@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Roger Fingas&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; content=&quot;2015-08-19T17:48:48-04:00&quot;&gt;Wednesday, August 19, 2015, 02:48 pm PT (05:48 pm ET)&lt;/span&gt;&lt;br&gt;&lt;span itemprop=&quot;articleBody&quot; readability=&quot;18&quot;&gt;&lt;span&gt;Some Apple Watch owners are experiencing problems with the Apple logo disappearing off the back of their devices, and/or scratching around the surrounding text, according to complaints posted online.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/v9/images/1x1-white.jpg&quot; alt=&quot;Via Apple Support Communites user dougie70w&quot;&gt;&lt;noscript&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/gallery/13964-9133-image-l.jpg&quot; alt=&quot;&quot;&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span&gt;Via Apple Support Communites user dougie70w&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Issues have been ongoing for at least a few months, &lt;a href=&quot;https://www.reddit.com/r/apple/comments/3hk0y7/anyone_has_their_apple_logo_scratch_off_like_this/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;various&lt;/a&gt;&lt;a href=&quot;https://www.reddit.com/r/AppleWatch/comments/3fe0v9/the_apple_logo_fell_out_of_my_watch_has_anyone/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;posts&lt;/a&gt; on Reddit show. In most examples, only the logo has been affected. A Wednesday post on Apple’s support forums, though, suggested &lt;a href=&quot;https://discussions.apple.com/thread/7180631&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;similar trouble&lt;/a&gt; with the rest of the text as well.&lt;/p&gt;
+&lt;p&gt;One person who spoke with Apple support, contacted by &lt;em&gt;AppleInsider&lt;/em&gt;, said they were given a call back by someone at the company, and promised a free replacement Watch so that engineers could study the problem. The Apple representative asked about local climate, activity levels, and whether the device was immersed in water, but suggested that other people have reported the problem, and only with the space gray Sport. &lt;/p&gt;
+&lt;p&gt;Many if not all of the damaged units appear to be space gray Sport models, implying that the problem is with the way text is printed on those devices. Stainless steel Watches have their text engraved instead of printed.&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/v9/images/1x1-white.jpg&quot; alt=&quot;Via Reddit user eternitydia&quot;&gt;&lt;noscript&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/gallery/13964-9132-dHmrw15-l.jpg&quot; alt=&quot;&quot;&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span&gt;Via Reddit user eternitydia&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Apple marketing has placed a strong emphasis on the luxury and craftsmanship of the Watch, which has led to more attention to potential defects. The Sport is Apple’s cheapest model, but still starts at $349 and uses things like tougher 7000-Series aluminum and reinforced “Ion-X” glass.&lt;br&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt; By &lt;a href=&quot;mailto:rfingas@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Roger Fingas&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; content=&quot;201
+    
+    </summary>
+    
+      <category term="MacOS" scheme="http://fe.myfreebsd.co.uk/categories/macos/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Intel&#39;s Skylake chips can power three 4K monitors simultaneously, launch details in &#39;couple of weeks&#39;</title>
+    <link href="http://fe.myfreebsd.co.uk/18/08/2015/intels-skylake-chips-can-power-three-4k-monitors-simultaneously-launch-details-in-couple-of-weeks/"/>
+    <id>http://fe.myfreebsd.co.uk/18/08/2015/intels-skylake-chips-can-power-three-4k-monitors-simultaneously-launch-details-in-couple-of-weeks/</id>
+    <published>2015-08-18T21:39:00.000Z</published>
+    <updated>2016-03-27T21:02:27.000Z</updated>
+    
+    <content type="html">&lt;div itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot; readability=&quot;29&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;a href=&quot;#&quot; title=&quot;decrease font size&quot;&gt;–&lt;/a&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;a href=&quot;#&quot; title=&quot;reset font size&quot;&gt;A&lt;/a&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;a href=&quot;#&quot; title=&quot;increase font size&quot;&gt;+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;/div&gt;
+
+&lt;p&gt; By &lt;a href=&quot;mailto:rfingas@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Roger Fingas&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; content=&quot;2015-08-19T17:39:00-04:00&quot;&gt;Wednesday, August 19, 2015, 02:39 pm PT (05:39 pm ET)&lt;/span&gt;&lt;br&gt;&lt;span itemprop=&quot;articleBody&quot; readability=&quot;16&quot;&gt;&lt;span&gt;A launch date for Intel’s next-generation Skylake processors should be announced in a “couple of weeks,” a senior principal engineer recently revealed at an Intel Developer Forum presentation.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/v9/images/1x1-white.jpg&quot; alt=&quot;&quot;&gt;&lt;noscript&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/gallery/13967-9136-intelskylake-l.jpg&quot; alt=&quot;&quot;&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The company in the meantime shared a &lt;a href=&quot;http://www.pcworld.com/article/2972823/components-processors/intel-skylake-laptop-cpus-should-use-less-power-run-faster-and-can-even-drive-three-4k-monitors.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;variety of details&lt;/a&gt; about the platform, according to &lt;em&gt;PCWorld&lt;/em&gt;. Skylake processors will, for instance, use a technology called Speed Shift to dynamically change power state and reduce consumption. &lt;/p&gt;
+&lt;p&gt;Planned performance boosts are &lt;a href=&quot;http://appleinsider.com/articles/15/07/24/leaked-intel-skylake-info-reveals-future-macbooks-will-gain-graphics-boosts-better-battery-life&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;already well-known&lt;/a&gt;, but one improvement will come in the form of “eDRAM+,” a fully coherent form of cache memory that can work for the CPU and not just integrated graphics. eDRAM+ will also be used in more chips than eDRAM, and in 64- and 128-megabyte sizes.&lt;/p&gt;
+&lt;p&gt;A new extension technology, SGX — Software Guard eXtensions — should limit the potential damage of privileged malware attacks. &lt;/p&gt;
+&lt;p&gt;Graphically, Intel claimed that Skylake’s graphics technology will be powerful enough to drive three 4K monitors at 60 hertz, versus a single 4K monitor with Broadwell chips. &lt;/p&gt;
+&lt;p&gt;Skylake processors are expected to drive the next generation of Apple Macs, from the &lt;a href=&quot;http://appleinsider.com/articles/15/08/11/leaked-intel-skylake-u-roadmap-reveals-cpus-likely-bound-for-macbook-air-&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MacBook Air&lt;/a&gt; through to the iMac. Most updates will probably have to wait until next year however, since Skylake is only debuting later this year and most Macs have already seen a 2015 refresh&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;div itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot; readability=&quot;29&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;a href=&quot;#&quot; title=&quot;decrease font size&quot;&gt;–&lt;/a&gt;&lt;/div&gt;
+    
+    </summary>
+    
+      <category term="MacOS" scheme="http://fe.myfreebsd.co.uk/categories/macos/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Apple issues 7th OS X 10.11 El Capitan beta to developers, 5th public beta to testers</title>
+    <link href="http://fe.myfreebsd.co.uk/18/08/2015/apple-issues-7th-os-x-10-11-el-capitan-beta-to-developers-5th-public-beta-to-testers/"/>
+    <id>http://fe.myfreebsd.co.uk/18/08/2015/apple-issues-7th-os-x-10-11-el-capitan-beta-to-developers-5th-public-beta-to-testers/</id>
+    <published>2015-08-18T20:27:00.000Z</published>
+    <updated>2016-03-27T21:30:55.000Z</updated>
+    
+    <content type="html">&lt;p&gt; By &lt;a href=&quot;mailto:news@appleinsider.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;AppleInsider Staff &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; content=&quot;2015-08-19T16:27:00-04:00&quot;&gt;Wednesday, August 19, 2015, 01:27 pm PT (04:27 pm ET)&lt;/span&gt;&lt;br&gt;&lt;span itemprop=&quot;articleBody&quot; readability=&quot;8&quot;&gt;&lt;span&gt;Apple on Wednesday released the seventh beta version of its upcoming OS X 10.11 El Capitan operating system to developers for testing, while at the same time pushing out a fifth beta to those participating in the public beta program.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/v9/images/1x1-white.jpg&quot; alt=&quot;&quot;&gt;&lt;noscript&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/gallery/13966-9135-13711-8725-13161-7708-osxelcapitan-splitscreen-l-l-l.jpg&quot; alt=&quot;&quot;&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Today’s developer beta build comes &lt;a href=&quot;http://appleinsider.com/articles/15/08/03/apple-issues-sixth-beta-of-os-x-el-capitan-to-developers&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;over two weeks&lt;/a&gt; after Apple issued its most recent El Capitan version with a batch of bug fixes. The latest build is thought to contain additional performance enhancements and tweaks. &lt;/p&gt;
+&lt;p&gt;The fifth public beta build initially went out &lt;a href=&quot;http://appleinsider.com/articles/15/08/18/fifth-build-of-os-x-1011-el-capitan-supplied-to-apples-public-beta-developers&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;yesterday&lt;/a&gt;, but was quickly pulled for unknown reasons. &lt;/p&gt;
+&lt;p&gt;With a rumored iPhone event coming up in September, Apple is likely finished with major feature additions and is putting the final touches on El Capitan before public release. While not a dramatic upgrade over Yosemite, El Capitan will add niceties like Split View, enhanced Mission Control and performance improvements.&lt;/p&gt;
+&lt;p&gt;Developers can download the seventh El Capitan beta via Apple’s &lt;a href=&quot;https://developer.apple.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Developer Portal&lt;/a&gt; or the software update mechanism in the Mac App Store.&lt;br&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt; By &lt;a href=&quot;mailto:news@appleinsider.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;AppleInsider Staff &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; c
+    
+    </summary>
+    
+      <category term="MacOS" scheme="http://fe.myfreebsd.co.uk/categories/macos/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>MLB okays Apple Watch for use in the dugout, cell phones still banned</title>
+    <link href="http://fe.myfreebsd.co.uk/18/08/2015/mlb-okays-apple-watch-for-use-in-the-dugout-cell-phones-still-banned/"/>
+    <id>http://fe.myfreebsd.co.uk/18/08/2015/mlb-okays-apple-watch-for-use-in-the-dugout-cell-phones-still-banned/</id>
+    <published>2015-08-18T19:11:43.000Z</published>
+    <updated>2016-03-27T21:31:33.000Z</updated>
+    
+    <content type="html">&lt;p&gt; By &lt;a href=&quot;mailto:news@appleinsider.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;AppleInsider Staff&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; content=&quot;2015-08-19T15:11:43-04:00&quot;&gt;Wednesday, August 19, 2015, 12:11 pm PT (03:11 pm ET)&lt;/span&gt;&lt;br&gt;&lt;span itemprop=&quot;articleBody&quot; readability=&quot;12&quot;&gt;&lt;span&gt;Major League Baseball will reportedly allow coaches and team personnel to wear Apple Watches in the dugout during games — while continuing to ban other electronic devices, including cell phones — as long as the Watch is not used for communication.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/v9/images/1x1-white.jpg&quot; alt=&quot;&quot;&gt;&lt;noscript&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/gallery/13965-9131-CMknvyUUAAAKQ-Yjpg-large-l.jpg&quot; alt=&quot;&quot;&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The MLB home office was forced to confront the issue this week after Kansas City Royals manager Ned Yost was spotted wearing his Apple Watch in the dugout during a game against the Cincinnati Reds. Yost received the Watch in question from Major League Baseball itself after managing the American League team in this year’s All-Star Game.&lt;/p&gt;
+&lt;p&gt;While some overzealous publications initially reported that MLB had banned the Apple Watch after speaking with Yost, an MLB spokesperson &lt;a href=&quot;http://www.marketwatch.com/story/mlb-not-banning-apple-watch-from-dugout-despite-cheating-concerns-2015-08-19?siteid=yhoof2&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;told&lt;/a&gt;&lt;em&gt;MarketWatch&lt;/em&gt; that was not the case. The league merely checked with Yost to ensure he was not using it to access scouting data or otherwise communicate with team personnel during the game.&lt;/p&gt;
+&lt;p&gt;“When you’re away from your phone, all it is is a watch,” Yost told the league, &lt;a href=&quot;https://twitter.com/McCulloughStar/status/633752852607844352&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;according to&lt;/a&gt; the &lt;em&gt;Kansas City Star’s&lt;/em&gt; Andy McCullough. &lt;/p&gt;
+&lt;p&gt;That will change with the release of watchOS 2, which will bring native apps and expanded Wi-Fi connectivity to the Watch this fall. There is no word on what MLB will do at that point, though the new capabilities may cause the Watch to fall under the league’s electronic device policy.&lt;/p&gt;
+&lt;p&gt;While there is no official rule against electronic devices, then-MLB operations chief Sandy Alderson effectively laid down the law with a memo distributed in 2000:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Please be reminded that the use of electronic equipment during a game is restricted. No club shall use electronic equipment, including walkie-talkies and cellular telephones, to communicate to or with any on-field personnel, including those, in the dugout, bullpen, field and-during the game-the clubhouse. Such equipment may not be used for the purpose of stealing signs or conveying information designed to give a club an advantage.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt; By &lt;a href=&quot;mailto:news@appleinsider.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;AppleInsider Staff&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; co
+    
+    </summary>
+    
+      <category term="MacOS" scheme="http://fe.myfreebsd.co.uk/categories/macos/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Cliick Wants App Users To Click Over Clickbait</title>
+    <link href="http://fe.myfreebsd.co.uk/18/08/2015/cliick-wants-app-users-to-click-over-clickbait/"/>
+    <id>http://fe.myfreebsd.co.uk/18/08/2015/cliick-wants-app-users-to-click-over-clickbait/</id>
+    <published>2015-08-18T18:04:42.000Z</published>
+    <updated>2016-03-27T21:09:31.000Z</updated>
+    
+    <content type="html">&lt;div readability=&quot;55&quot;&gt;&lt;br&gt;&lt;br&gt;Meet &lt;a href=&quot;http://www.cliickapp.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Cliick&lt;/a&gt;: another dating app wannabe, but one that’s taking a bit of a leftfield approach to the perennial problem of matching singles. Instead of proffering profiles for users to swipe through and judge, a la &lt;a href=&quot;http://techcrunch.com/topic/company/tinder/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Tinder&lt;/a&gt; (and its myriad imitators) Cliick is using news stories as the swipeable connective tissue — linking users to each other when they like or discuss similar stories.&lt;br&gt;&lt;br&gt;The &lt;a href=&quot;https://itunes.apple.com/us/app/cliick/id1016641681?mt=8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iOS app&lt;/a&gt;, which is currently invite-only to ensure a balanced user-base, works by asking users to specify what age-range and gender/s they would like to meet, and then drops them into a news feed where they can read, like, comment on or swipe past news articles (from the usual ‘trending content’ suspects, e.g. Upworthy, Buzzfeed, Bored Panda etc).&lt;br&gt;&lt;br&gt;The content each user sees is tailored to their particular interests, pulled via the app’s Facebook log-in requirement. It also uses its own learning algorithms to keep adapting the content it shows each person — so their like and dislike signals are fed back to iterate the content selection algorithm.&lt;br&gt;&lt;br&gt;Users that like similar stories, and also match each others’ location/age/gender requirements, will then encounter each others’ profiles via comments/likes left on stories in their mutual interest bubble. From there, they can click to view each others’ profiles, start chatting directly and see if any digital sparks result.&lt;br&gt;&lt;br&gt;“We are aiming to bring the real-life experience of meeting new people organically to the virtual world of mobile in a meaningful and efficient way,” Cliick’s founder Moe Rafiee tells TechCrunch.&lt;br&gt;&lt;br&gt;&lt;span&gt;“Cliick&lt;/span&gt; adds context to the encounters as when a user finds another user interesting, he/she can start a conversation with the other user by replying to the comment the other user posted on a piece of content,” he adds, fleshing out the difference between Cliick and other dating apps.&lt;br&gt;&lt;br&gt;“In other words, the comments (and the corresponding content) act as an ice breaker and will allow a conversation to develop naturally giving users an opportunity to get to know each other a bit more and see if there is a good enough connection between them before investing time in meeting each other in person.”&lt;br&gt;&lt;br&gt;If the problem with snap judgement (let’s call them ‘thumb jerk’) dating apps — such as Tinder — is that they encourage singles to ‘&lt;a href=&quot;http://www.vanityfair.com/culture/2015/08/tinder-hook-up-culture-end-of-dating&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;transactionalize&lt;/a&gt;‘ the business of meeting a potential mate, pushing people to be overly prescriptive to speed up the profile-sorting process, while also (arguably) subtly undermining the notion of making a meaningful connection by encouraging users to keep playing their matching game (to keep them using the app), then dating apps that take a more roundabout, intentionally slower and context-sensitive approach — as Cliick is aiming to — could carve out a fan-base among singles burnt out by the Tinder thumbmill. Time will tell. Although whether clickbait can generate meaningful conversations remains to be seen.&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;/div&gt;
+
+&lt;p&gt;The other pertinent question here is: Will dating become just another layer applied on top of all sorts of apps? If you break dating apps down into their constituent parts they generally consist of two parts: A) matching and B) messaging. It would therefore seem a pretty trivial addition to add a ‘dating layer’ atop apps that are ostensibly focused on something other than dating.&lt;/p&gt;
+&lt;p&gt;For example, a recipe app could become a way for likeminded foodies to mingle. Ditto a specialist sports or fitness app. And so on. Mobile automates the location layer so users can easily be pushed towards likeminded folk in their immediate vicinity. Their age is often given up via Facebook sign-in. The only other key question is whether someone is single or not. That data can also come via Facebook. Or it could be a simple request setting within the app — letting users specify if they want to opt into meeting other singles within their special interest group, whether that group is relating to sailing or running or cycling or whatever. If there’s an app for everything, every app could in theory offer a matchmaking layer — although apps that are focused on linking likeminded communities would seem the likeliest candidates.&lt;/p&gt;
+&lt;p&gt;If you think all that sounds a bit odd, consider mobile marketplace startup &lt;a href=&quot;http://techcrunch.com/2015/05/19/wallapop-is-poised-to-disrupt-classifieds-as-accel-insight-fidelity-pack-its-war-chest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Wallapop&lt;/a&gt;. It’s a mobile location-based flea market app which lets users buy and sell secondhand stuff in their neighborhood. That may sound inherently unsexy but the startup &lt;a href=&quot;http://blog.gb.wallapop.com/2015/02/wallasingles/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;has experimented with matching single users&lt;/a&gt; wanting to meet other singles — while selling their spare bed (or whatever). Point is technology still hasn’t found a way to predict chemistry as accurately as two people actually meeting up, however fleetingly, IRL. So Wallapop giving its single users a secondary motive to get together — i.e. the chance to surreptitiously check each other out on the off-chance sparks will fly — might actually be rather smart thinking. Certainly it’s a worthy experiment.&lt;/p&gt;
+&lt;p&gt;I know of one married couple who met IRL after he advertised his spare room for rent and she came to check it out, for instance. As the saying goes, love will find a way — and apps are just another communication medium that facilitates connections. So why should dating be limited to &lt;em&gt;just&lt;/em&gt; dating apps?&lt;/p&gt;
+&lt;p&gt;As for Cliick, it’s just the start for the bootstrapping startup’s dating foray. The San Francisco-based team started working on the app in March, launching it on the App Store this week — and are just firing up their marketing efforts, with a pretty standard dating app marketing plan to hire campus representatives to push the app to students, starting this fall. So their experiment to see whether clickbait can forge lasting human connections starts here.&lt;/p&gt;
+&lt;p&gt;“The app is fully functional and has all the features designed. However, it currently places some users on a waitlist as they sign into the app (determined based on the user’s demographics – age, gender, location). We then give access to waitlisted users progressively to maintain a well-balanced user community,” notes Rafiee, who has a background in machine learning and data science. “We are planning to keep our waitlisting framework until the app’s user base has a reasonable size and diversity. We are hoping to get there by mid-late fall.”&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;div readability=&quot;55&quot;&gt;&lt;br&gt;&lt;br&gt;Meet &lt;a href=&quot;http://www.cliickapp.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Cliick&lt;/a&gt;: another dating app wannabe
+    
+    </summary>
+    
+      <category term="MacOS" scheme="http://fe.myfreebsd.co.uk/categories/macos/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>&#39;iPhone 6s&#39; will move to Apple Watch&#39;s 7000-series aluminum, spectrometer analysis confirms</title>
+    <link href="http://fe.myfreebsd.co.uk/18/08/2015/iphone-6s-will-move-to-apple-watchs-7000-series-aluminum-spectrometer-analysis-confirms/"/>
+    <id>http://fe.myfreebsd.co.uk/18/08/2015/iphone-6s-will-move-to-apple-watchs-7000-series-aluminum-spectrometer-analysis-confirms/</id>
+    <published>2015-08-18T16:09:00.000Z</published>
+    <updated>2016-03-27T21:32:09.000Z</updated>
+    
+    <content type="html">&lt;p&gt; By &lt;a href=&quot;mailto:news@appleinsider.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;AppleInsider Staff&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; content=&quot;2015-08-19T12:09:00-04:00&quot;&gt;Wednesday, August 19, 2015, 09:09 am PT (12:09 pm ET)&lt;/span&gt;&lt;br&gt;&lt;span itemprop=&quot;articleBody&quot; readability=&quot;20&quot;&gt;&lt;span&gt;Composition testing of what is purportedly a shell for Apple’s next-generation iPhone confirms previous reports that the new device will move to 7000-series aluminum, an alloy first introduced to Apple’s lineup with the Watch.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/v9/images/1x1-white.jpg&quot; alt=&quot;&quot;&gt;&lt;noscript&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/gallery/13963-9130-Screenshot-2015-08-19-234827-l.jpg&quot; alt=&quot;&quot;&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The supposed iPhone 6 shell &lt;a href=&quot;https://www.youtube.com/watch?v=ChUsy8gWwvo&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;acquired&lt;/a&gt; by &lt;em&gt;Unbox Therapy&lt;/em&gt; shows high concentrations of zinc, indicative of 7000-series aluminum. Generally speaking, adding zinc — along with magnesium — to create 7000-series aluminum results in an alloy that is much harder than the more popular 6000-series, and consequently more difficult to work with.&lt;/p&gt;
+&lt;p&gt;When the Watch was announced, Apple proudly pointed out that the 7000-series alloy used in the sport models was in fact a custom Apple composition, though it’s still not clear exactly what they changed. It’s possible that they could’ve made concessions to make the material easier to handle during manufacturing, for instance, though they claim substantial improvements in strength.&lt;/p&gt;
+&lt;p&gt;“For Apple Watch Sport, we started with 7000 Series aluminum — the same used in competition bicycles,” Apple says on its website. “We altered it to create a new alloy that’s just as light, yet even more durable — it’s 60 percent stronger than most aluminum, and one-third the density of stainless steel.”&lt;/p&gt;
+&lt;p&gt;While it’s not clear whether the alloy used for the iPhone 6s will be exactly the same as the one used for the Watch, the move is likely to make the handsets much stronger. Many users have found that the smoothly-rounded corners of the iPhone 6 and 6 Plus are easy to dent, a charge long leveled at the also-aluminum MacBook lineup.&lt;/p&gt;
+&lt;p&gt;The YouTube video also shows a “bend test” that indicates the new iPhone shell will be significantly stiffer than its predecessor, though the rig used is not a standard material deformation gauge, making the actual results of the testing somewhat questionable.&lt;br&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt; By &lt;a href=&quot;mailto:news@appleinsider.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;AppleInsider Staff&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; co
+    
+    </summary>
+    
+      <category term="MacOS" scheme="http://fe.myfreebsd.co.uk/categories/macos/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Russia&#39;s Monocrystal identified as Apple Watch sapphire supplier</title>
+    <link href="http://fe.myfreebsd.co.uk/18/08/2015/russias-monocrystal-identified-as-apple-watch-sapphire-supplier/"/>
+    <id>http://fe.myfreebsd.co.uk/18/08/2015/russias-monocrystal-identified-as-apple-watch-sapphire-supplier/</id>
+    <published>2015-08-18T15:48:19.000Z</published>
+    <updated>2016-03-27T21:33:15.000Z</updated>
+    
+    <content type="html">&lt;p&gt; By &lt;a href=&quot;mailto:rfingas@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Roger Fingas&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; content=&quot;2015-08-19T11:48:19-04:00&quot;&gt;Wednesday, August 19, 2015, 08:48 am PT (11:48 am ET)&lt;/span&gt;&lt;br&gt;&lt;span itemprop=&quot;articleBody&quot; readability=&quot;19&quot;&gt;&lt;span&gt;Apple’s scratch resistant sapphire supplier for the Apple Watch is reportedly Monocrystal, a Russian firm which has become the largest synthetic sapphire manufacturer in the world.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/v9/images/1x1-white.jpg&quot; alt=&quot;&quot;&gt;&lt;noscript&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/gallery/13962-9129-applewatch-flat-l.jpg&quot; alt=&quot;&quot;&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The company’s annual revenue is up to $87 million, and it was one of the only sapphire manufacturers to post an operating profit by the end of 2014, &lt;a href=&quot;http://sputniknews.com/business/20150819/1025909984/russia-monocrystal-sapphires-apple-watch.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;according to&lt;/a&gt;&lt;em&gt;Sputnik News&lt;/em&gt;. The depreciation of the ruble in the past year — owing to falling oil prices, and economic sanctions after the invasion of Ukraine — has made it more economically competitive.&lt;/p&gt;
+&lt;p&gt;Apple uses Monocrystal’s 2-inch sapphire wafers, which account for 40 percent of the latter’s output, &lt;em&gt;Sputnik&lt;/em&gt; said. Monocrystal is reportedly looking to exploit the low ruble to boost 2-inch production from 4 million units a month to 5 million by the end of the year.&lt;/p&gt;
+&lt;p&gt;It’s not clear how much of Monocrystal’s wafer production might be dedicated to Apple, as it serves a number of clients, including other watchmakers. &lt;/p&gt;
+&lt;p&gt;Apple has also been vague about the number of Watch sales so far, claiming success but choosing not to publish any unit numbers or even break out revenue. Analyst estimates have varied wildly for the June quarter, anywhere between 2 million and &lt;a href=&quot;http://appleinsider.com/articles/15/07/22/canalys-estimates-42-million-apple-watches-sold-in-wearables-first-quarter&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;4.2 million&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;The company’s original sapphire supplier was supposed to be an American firm, GT Advanced Technologies, with which it helped establish a factory in Mesa, Arizona. GT ultimately went bankrupt however, blaming unreasonable demands by Apple, something the latter denied. The aftermath is still being &lt;a href=&quot;http://appleinsider.com/articles/15/07/17/apple-objects-to-gt-advanced-financing-plan-based-on-terms-linked-to-mesa-fire&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;resolved in court&lt;/a&gt;.&lt;br&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt; By &lt;a href=&quot;mailto:rfingas@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Roger Fingas&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; content=&quot;201
+    
+    </summary>
+    
+      <category term="MacOS" scheme="http://fe.myfreebsd.co.uk/categories/macos/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Apple to open two Apple Stores in United Arab Emirates after exemption from ownership laws</title>
+    <link href="http://fe.myfreebsd.co.uk/18/08/2015/apple-to-open-two-apple-stores-in-united-arab-emirates-after-exemption-from-ownership-laws/"/>
+    <id>http://fe.myfreebsd.co.uk/18/08/2015/apple-to-open-two-apple-stores-in-united-arab-emirates-after-exemption-from-ownership-laws/</id>
+    <published>2015-08-18T14:48:41.000Z</published>
+    <updated>2016-03-27T21:34:41.000Z</updated>
+    
+    <content type="html">&lt;p&gt; By &lt;a href=&quot;mailto:rfingas@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Roger Fingas&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; content=&quot;2015-08-19T10:48:41-04:00&quot;&gt;Wednesday, August 19, 2015, 07:48 am PT (10:48 am ET)&lt;/span&gt;&lt;br&gt;&lt;span itemprop=&quot;articleBody&quot; readability=&quot;22&quot;&gt;&lt;span&gt;The United Arab Emirates is reportedly granting Apple an exemption from foreign ownership laws, allowing it to retain full control of planned operations in the country — including two new Apple Stores.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/v9/images/1x1-white.jpg&quot; alt=&quot;&quot;&gt;&lt;noscript&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/gallery/13960-9127-dubai-l.jpg&quot; alt=&quot;&quot;&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Apple was otherwise refusing to set up shop in the region, two sources &lt;a href=&quot;http://www.bloomberg.com/news/articles/2015-08-19/apple-said-to-plan-dubai-stores-after-winning-exemptions&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;informed&lt;/a&gt;&lt;em&gt;Bloomberg&lt;/em&gt;. Although the country’s monarchical government is working on a law that would permit full foreign ownership in some industries, businesses in the U.A.E. must normally be 51 percent owned by Emiratis, or a parent company completely owned by them, unless they’re operating in so-called free zones. &lt;/p&gt;
+&lt;p&gt;Ahmad Al-Hosani, director of trade registration for the country’s Ministry of Economy, would only tell &lt;em&gt;Bloomberg&lt;/em&gt; that Apple was licensed “according to the requirements of, and in compliance with the Commercial Companies Law, as well as the ministerial resolution on foreign company branches.”&lt;/p&gt;
+&lt;p&gt;The first Apple Store should open in Dubai later this year, the sources said, followed by a shop in Abu Dhabi. The Dubai outlet will be Apple’s first in the Middle East.&lt;/p&gt;
+&lt;p&gt;The U.A.E. is a small but significant market for Apple, since while there are just 17 million cellular subscribers in the region, 61 percent of them are using smartphones. In the fourth quarter of 2014, the iPhone 5s was the region’s most popular phone.&lt;/p&gt;
+&lt;p&gt;Dubai in particular is an important city, with extreme wealth in some quarters and a number of foreign tourists and expats. Rumors of a Dubai Apple Store &lt;a href=&quot;http://appleinsider.com/articles/15/05/18/apples-50000-square-foot-retail-store-in-dubai-to-open-in-august&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;first emerged in May&lt;/a&gt;, pointing to a space in the Mall of the Emirates measuring a gigantic 50,000 square feet. It was also claimed that the store would open this month, however.&lt;br&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt; By &lt;a href=&quot;mailto:rfingas@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Roger Fingas&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; content=&quot;201
+    
+    </summary>
+    
+      <category term="MacOS" scheme="http://fe.myfreebsd.co.uk/categories/macos/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Spredfast Acquires Shoutlet For A Social Marketing Team-Up</title>
+    <link href="http://fe.myfreebsd.co.uk/18/08/2015/spredfast-acquires-shoutlet-for-a-social-marketing-team-up/"/>
+    <id>http://fe.myfreebsd.co.uk/18/08/2015/spredfast-acquires-shoutlet-for-a-social-marketing-team-up/</id>
+    <published>2015-08-18T14:05:28.000Z</published>
+    <updated>2016-03-27T21:14:47.000Z</updated>
+    
+    <content type="html">&lt;div readability=&quot;19&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https://www.spredfast.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Spredfast&lt;/a&gt; has acquired another social marketing company, &lt;a href=&quot;http://www.shoutlet.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Shoutlet&lt;/a&gt;.&lt;br&gt;&lt;br&gt;While the two companies are in the same industry, Spredfast CEO Rod Favaron (pictured above) said that when he looks at their products, he sees “a lot more complements than overlaps.” In particular, he said Spredfast has focused on helping companies find and create content for social media, while Shoutlet’s strength is more on the data side.&lt;br&gt;&lt;br&gt;“We both fit categorically in this area of social relationship management, but Shoutlet has focused on gathering customer data and insights and figuring out ways to integrate that back into the enterprise,” added Shoutlet co-founder and &lt;del datetime=&quot;2015-08-19T17:14:15+00:00&quot;&gt;CEO&lt;/del&gt; President Aaron Everson.&lt;br&gt;&lt;br&gt;According to Favaron, “almost” the entire Shoutlet team will be joining Spredfast. While Spredfast is based in Austin, it will keep Shoutlet’s offices in Madison, Wisconsin. And it will continue to offer Shoutlet products — the goal is to integrate when the two product lineups offer unique features, and to “normalize” in the areas where they overlap.&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;/div&gt;
+
+&lt;p&gt;The financial terms of the deal are not being disclosed. &lt;a href=&quot;http://techcrunch.com/2012/06/07/shoutlet-ftv/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Shoutlet had previously raised about $24 million&lt;/a&gt; in equity funding, plus &lt;a href=&quot;http://www.xconomy.com/wisconsin/2015/02/26/shoutlet-snags-5m-more-to-help-big-brands-boost-social-marketing/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;a $5 million debt round&lt;/a&gt; earlier this year.&lt;/p&gt;
+&lt;div&gt;&lt;br&gt;&lt;br&gt;## Related Articles&lt;br&gt;&lt;a href=&quot;http://techcrunch.com/2014/01/03/spredfast-series-d/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Spredfast Raises $32.5M For The “Third Wave” In Social Marketing&lt;/a&gt;&lt;a href=&quot;http://techcrunch.com/2012/06/07/shoutlet-ftv/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Acquire, Be Acquired, Or IPO: $15M From FTV Lets Social Marketer Shoutlet Choose Its Destiny&lt;/a&gt;&lt;/div&gt; Favaron said the combined companies have a headcount of more than 600 employees and work with more than 1,400 customers. &lt;a href=&quot;http://venturebeat.com/2014/04/02/mass-relevance-merges-with-spredfast-to-form-one-giant-social-marketing-platform/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Spredfast merged with Mass Relevance&lt;/a&gt; last year, so I asked if he expects to see more consolidation among social marketing startups.&lt;br&gt;&lt;br&gt;“Most of the consolidation to date has been the really big companies buying some things and creating the clouds,” he replied. “That hasn’t worked. Big guys buy little guys and then they slow the little guys down. … We stubbornly believe that an independent with the right width and the right footprint can continue to win.”&lt;br&gt;&lt;/div&gt;
+&lt;/div&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;div readability=&quot;19&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https://www.spredfast.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Spredfast&lt;/a&gt; has acquired another social m
+    
+    </summary>
+    
+      <category term="MacOS" scheme="http://fe.myfreebsd.co.uk/categories/macos/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>&#39;iPad Pro&#39; expected this fall, will get Force Touch from new pressure-sensitive Apple stylus</title>
+    <link href="http://fe.myfreebsd.co.uk/18/08/2015/ipad-pro-expected-this-fall-will-get-force-touch-from-new-pressure-sensitive-apple-stylus/"/>
+    <id>http://fe.myfreebsd.co.uk/18/08/2015/ipad-pro-expected-this-fall-will-get-force-touch-from-new-pressure-sensitive-apple-stylus/</id>
+    <published>2015-08-18T12:59:00.000Z</published>
+    <updated>2016-03-27T21:02:27.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;span itemprop=&quot;articleBody&quot; readability=&quot;32&quot;&gt;&lt;span&gt;Apple’s anticipated jumbo-sized iPad will feature Force Touch input via a new, optional stylus accessory, which will allow for new ways of interacting with the next-generation tablet, according to insider Ming-Chi Kuo.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/v9/images/1x1-white.jpg&quot; alt=&quot;Pencil&quot;&gt;&lt;noscript&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/13.12.09-Pencil-0.jpg&quot; alt=&quot;&quot;&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span&gt;Development studio &lt;a href=&quot;http://appleinsider.com/articles/13/12/09/review-fiftythrees-pencil-bluetooth-stylus-&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;FiftyThree’s iPad stylus&lt;/a&gt; is one of dozens already on the market.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The analyst with KGI Securities issued a new research note on Wednesday, a copy of which was obtained by &lt;em&gt;AppleInsider&lt;/em&gt;, in which he portrayed Force Touch input on the rumored 12.9-inch iPad as “an evolution, rather than a revolution.”&lt;/p&gt;
+&lt;p&gt;According to Kuo, the new Bluetooth stylus will be sold separately from the so-called “iPad Pro.” He expects Apple to ship about a million styluses, compared to as many as 3.5 million larger iPad models.&lt;/p&gt;
+&lt;p&gt;Mass production of the 12.9-inch iPad will begin in September and October, he said, with shipment presumably thereafter in time for the holiday shopping season.&lt;/p&gt;
+&lt;p&gt;The analyst suggested that Cheng Uei will be the sole supplier for the stylus accessory, which would be a strange move for Apple, as the company usually diversifies its supply chain as a conservative measure.&lt;/p&gt;
+&lt;p&gt;Kuo’s dismissal of Force Touch as a driver of sales is also a change for the analyst, who suggested &lt;a href=&quot;http://appleinsider.com/articles/15/04/02/force-touch-for-iphone-expected-to-bring-about-most-significant-change-to-ios-user-interface-yet&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;in April&lt;/a&gt; that the new pressure-sensitive input method would be the most significant change to the iOS user interface ever. In fact, at the time Kuo thought Force Touch might be such a big deal that the company’s next-generation handset could be called the “iPhone 7,” rather than the “iPhone 6s.”&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/v9/images/1x1-white.jpg&quot; alt=&quot;Stylus&quot;&gt;&lt;noscript&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/14.03.20-Stylus-3.jpg&quot; alt=&quot;&quot;&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span&gt;One of Apple’s &lt;a href=&quot;http://appleinsider.com/articles/14/03/20/apple-investigating-stylus-with-extendable-multitouch-nib-onboard-light-and-motion-sensors&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;latest filings&lt;/a&gt; detailed an iPad stylus with extendable ‘multitouch’ nib, onboard light and motion sensors.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;A stylus may be necessary for Force Touch input to work on an iPad because of poor yield rates with the larger screen size, he said.&lt;/p&gt;
+&lt;p&gt;“We also believe a Force Touch-enabled stylus will enhance productivity as it would offer more precise operation than using only fingers,” Kuo wrote. “Technically, we believe the stylus can be made compatible with iPad models other than the 12.9-inch version, but it depends on the support of software.”&lt;/p&gt;
+&lt;p&gt;No indication was given as to how much Apple’s new stylus accessory might cost.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;AppleInsider’s&lt;/em&gt; own sources reaffirmed &lt;a href=&quot;http://appleinsider.com/articles/15/05/03/apples-129-ipad-will-feature-bluetooth-stylus-force-touch-nfc-more-source-says&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;earlier this year&lt;/a&gt; that the “iPad Pro” will indeed ship with a stylus that will feature pressure sensitivity. It’s also expected that the 12.9-inch iPad will boast a USB-C connector, as well as wireless NFC connectivity, which could allow the device to be a point of sale terminal for mobile payment services like Apple Pay.&lt;/p&gt;
+&lt;p&gt;In January of this year, Kuo suggested that Apple’s 2015 stylus will be a &lt;a href=&quot;http://appleinsider.com/articles/15/01/18/kgi-apple-likely-to-launch-stylus-to-enhance-upcoming-129-inch-ipad-user-experience&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;relatively simple accessory&lt;/a&gt;, offering more precise input than fingertips can allow. But he suggested the company may have a more advanced model, featuring 3D handwriting capabilities, in the works for release in the years to come.&lt;br&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;span itemprop=&quot;articleBody&quot; readability=&quot;32&quot;&gt;&lt;span&gt;Apple’s anticipated jumbo-sized iPad will feature Force Touch input via a new, option
+    
+    </summary>
+    
+      <category term="MacOS" scheme="http://fe.myfreebsd.co.uk/categories/macos/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Apple&#39;s mythical &#39;iPad Pro&#39; allegedly spotted in iOS app analytics</title>
+    <link href="http://fe.myfreebsd.co.uk/18/08/2015/apples-mythical-ipad-pro-allegedly-spotted-in-ios-app-analytics/"/>
+    <id>http://fe.myfreebsd.co.uk/18/08/2015/apples-mythical-ipad-pro-allegedly-spotted-in-ios-app-analytics/</id>
+    <published>2015-08-18T12:45:50.000Z</published>
+    <updated>2016-03-27T21:35:15.000Z</updated>
+    
+    <content type="html">&lt;p&gt; By &lt;a href=&quot;mailto:news@appleinsider.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Sam Oliver&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; content=&quot;2015-08-19T08:45:50-04:00&quot;&gt;Wednesday, August 19, 2015, 05:45 am PT (08:45 am ET)&lt;/span&gt;&lt;br&gt;&lt;span itemprop=&quot;articleBody&quot; readability=&quot;20&quot;&gt;&lt;span&gt;A new, high-resolution iPad with an as-yet-unseen model identifier has reportedly begun to surface in analytics data from some commercial iOS apps, suggesting that the long-rumored “iPad Pro” may have entered the later stages of testing.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/v9/images/1x1-white.jpg&quot; alt=&quot;Retina iPad mini review&quot;&gt;&lt;noscript&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/minireview-131114-4.jpg&quot; alt=&quot;&quot;&gt;&lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Analytics firm Appsee, which provides tools for developers to collect data on in-app user behavior, &lt;a href=&quot;https://www.appsee.com/blog/technology/the-ipad-pro-is-real-and-its-size-is-2048x2732&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;said&lt;/a&gt; that they spotted a new iPad identified as model “iPad6,8” in their user logs. The iPad Air 2 bears model identifiers “iPad5,3” and “iPad5,4” for Wi-Fi and cellular versions, respectively.&lt;/p&gt;
+&lt;p&gt;The device Appsee found also sports a larger 2,048-pixel-by-2,732-pixel display, compared to the 2,048-pixel-by-1,536-pixel unit found on the newest iPads. That matches with references &lt;a href=&quot;http://appleinsider.com/articles/15/06/15/ios-9-code-suggests-2732-by-2048-pixel-display-for-129-inch-ipad-pro&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;found in&lt;/a&gt; developer previews of iOS 9 earlier this summer.&lt;/p&gt;
+&lt;p&gt;The iPad Pro is one of the most oft-rumored Apple devices, with numerous alleged stops and starts in recent years. In July, Apple was &lt;a href=&quot;http://appleinsider.com/articles/15/07/13/rumor-apple-cautious-in-placing-orders-for-late-2015-launch-of-129-ipad-pro&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;said to&lt;/a&gt; have begun placing ‘cautious’ orders for jumbo iPad, with availability expected just before Christmas.&lt;/p&gt;
+&lt;p&gt;Apple is thought to be planning a special event for Sept. 9 at which the company will likely unveil its next-generation iPhones, though it’s unclear whether new iPads will also be shown off. Apple has historically held new iPad events in October, a move it could replicate this year if the iPad Pro is ready for release.&lt;br&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt; By &lt;a href=&quot;mailto:news@appleinsider.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Sam Oliver&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; content=&quot;2
+    
+    </summary>
+    
+      <category term="MacOS" scheme="http://fe.myfreebsd.co.uk/categories/macos/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>SwiftKey Quantifies Emoji Use</title>
+    <link href="http://fe.myfreebsd.co.uk/18/08/2015/swiftkey-quantifies-emoji-use/"/>
+    <id>http://fe.myfreebsd.co.uk/18/08/2015/swiftkey-quantifies-emoji-use/</id>
+    <published>2015-08-18T10:03:16.000Z</published>
+    <updated>2016-03-27T21:15:25.000Z</updated>
+    
+    <content type="html">&lt;div readability=&quot;21&quot;&gt;&lt;br&gt;&lt;br&gt;Which emojis do New Yorkers use more than other U.S. states?  How diverse is California’s emoji usage? Do Alaskans dream of emoji fish?&lt;br&gt;&lt;br&gt;Predictive keyboard maker &lt;a href=&quot;http://techcrunch.com/tag/swiftkey/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;SwiftKey&lt;/a&gt;, whose software now runs on some 250 million devices worldwide, has crunched the data on its U.S.’ users’ emoji usage to answer just such burning queries, looking at the usage of more than a billion emoji via its SwiftKey Cloud back-up and syncing service.&lt;br&gt;&lt;br&gt;So if you were ever curious about the pictorial preoccupations of your fellow Americans — and the horse latitudes of August are a great time to ponder such zeitgesity questions of the digital milieu — &lt;a href=&quot;http://swiftkey.com/en/united-states-emoji/#&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;wonder no more&lt;/a&gt;.&lt;br&gt;&lt;br&gt;What does SwiftKey’s &lt;em&gt;emojinalysis&lt;/em&gt; tell us? Unsurprisingly, California rates highly for the taxi emoji. &lt;a href=&quot;http://techcrunch.com/topic/company/uber/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Thanks Travis&lt;/a&gt;. Meanwhile the wine emoji is most popular in Washington — presumably because of the all those visiting European diplomats… And the sad emoji gets used most in New Jersey. Awww.&lt;br&gt;&lt;br&gt;And while New Yorkers tap on party- and female-related emoji more than average, Californians are sending LGBT and people emoji categories more often than other states.&lt;br&gt;&lt;br&gt;Meanwhile, the state that both uses violence- and drugs-related emoji more than average, and insects and flowers less than average is… wait for it… Ohio.&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;/div&gt;
+
+&lt;p&gt;Other tidbits: Vermont really digs emoji poop. And Nevada is preoccupied with eggplant.&lt;/p&gt;
+&lt;p&gt;In addition to creating an &lt;a href=&quot;http://swiftkey.com/en/united-states-emoji/#&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;interactive map depicting its United States of Emoji&lt;/a&gt;, SwiftKey is updating its &lt;a href=&quot;http://techcrunch.com/2015/05/20/swiftkey-launches-its-keyboard-theme-store-on-ios/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iOS predictive keyboard app&lt;/a&gt; with some emoji extras — showing U.S. users their “emoji state”; aka the US state their emoji use most resembles.&lt;/p&gt;
+&lt;p&gt;Plus two additions for all iOS users: a “top emoji” feature, which displays which emoji the person uses most often; and what they’re calling a “signature emoji” (currently in beta): aka the emoji that user uses more than other people.&lt;/p&gt;
+&lt;p&gt;Doing more with emoji is not only zeitgeisty, it should help SwiftKey fend off competition from &lt;a href=&quot;http://techcrunch.com/2015/06/17/you-wont-use-our-messaging-app-so-heres-a-funky-keyboard/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;emoji-centric keyboard rivals&lt;/a&gt; — which have &lt;a href=&quot;http://techcrunch.com/2014/10/02/this-emoji-ios-keyboard-might-be-the-best-thing-in-the-universe/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;proliferated&lt;/a&gt;&lt;a href=&quot;http://techcrunch.com/2014/10/10/goji/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;since Apple opened up the system keyboard&lt;/a&gt; to &lt;a href=&quot;http://techcrunch.com/2015/06/26/disney-now-has-its-own-gif-app-and-ios-8-keyboard/#.ctrchh:F4nn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;third parties&lt;/a&gt;, &lt;a href=&quot;http://techcrunch.com/2014/10/04/everything-you-need-to-know-about-ios-8-keyboard-permissions-but-were-afraid-to-ask/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;back in iOS 8&lt;/a&gt;.&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;div readability=&quot;21&quot;&gt;&lt;br&gt;&lt;br&gt;Which emojis do New Yorkers use more than other U.S. states?  How diverse is California’s emoji usage? Do Alas
+    
+    </summary>
+    
+      <category term="MacOS" scheme="http://fe.myfreebsd.co.uk/categories/macos/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Study claims 80% of Apple Watch owners in US, UK use Apple Pay</title>
+    <link href="http://fe.myfreebsd.co.uk/18/08/2015/study-claims-80-of-apple-watch-owners-in-us-uk-use-apple-pay/"/>
+    <id>http://fe.myfreebsd.co.uk/18/08/2015/study-claims-80-of-apple-watch-owners-in-us-uk-use-apple-pay/</id>
+    <published>2015-08-18T05:55:00.000Z</published>
+    <updated>2016-03-27T21:35:57.000Z</updated>
+    
+    <content type="html">&lt;p&gt; By &lt;a href=&quot;mailto:mikeycampbell@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Mikey Campbell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; content=&quot;2015-08-19T01:55:00-04:00&quot;&gt;Tuesday, August 18, 2015, 10:55 pm PT (01:55 am ET)&lt;/span&gt;&lt;br&gt;&lt;span itemprop=&quot;articleBody&quot; readability=&quot;18&quot;&gt;&lt;span&gt;According to new data from research firm Wristly, which saw its statistics cited in Apple’s latest earnings conference call, Apple Watch is proving to be a boon for Apple Pay users, as 80 percent of owners use the service to make purchases.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/v9/images/1x1-white.jpg&quot; alt=&quot;&quot;&gt;&lt;noscript&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/gallery/13958-9126-150820-Watch-Pay-l.jpg&quot; alt=&quot;&quot;&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Wristly aggregated data from an “Inner Circle” of more than 1,000 Apple Watch owners in the U.S. &lt;a href=&quot;http://appleinsider.com/articles/15/07/13/apple-pay-launches-in-uk-with-support-from-250k-stores-8-banks&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;and UK&lt;/a&gt; — the only regions with official Apple Pay support — and published its findings &lt;a href=&quot;https://medium.com/@bdesarnauts/wristly-apple-watch-insider-s-report-16-c458813bedd0&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;on Tuesday&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;The 80 percent statistic is in stark contrast to — highly questionable — surveys claiming Apple Pay usage rates are in the &lt;a href=&quot;http://appleinsider.com/articles/15/08/05/apple-pay-adoption-and-usage-rates-suffer-despite-strong-iphone-6-sales-study-finds&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;low teens&lt;/a&gt; for iPhone 6 and 6 Plus owners, Wristly says. Of the roughly 20 percent of respondents that don’t use Apple Pay on Watch, 5 percent said they “do not perceive a benefit” from Apple Pay, 5 percent have security concerns and 15 are using other methods of payment.&lt;/p&gt;
+&lt;p&gt;Unsurprisingly, most respondents who use Apple Pay first tried the service with an iPhone, though a fairly substantial 19 percent reported their first experience was on Apple Watch. The number is interesting considering Pay debuted &lt;a href=&quot;http://appleinsider.com/articles/14/10/20/apple-releases-ios-81-with-apple-pay-support-for-iphone-6-6-plus-sms-relay-and-icloud-photo-library&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;six months prior&lt;/a&gt; to Watch’s release. &lt;/p&gt;
+&lt;p&gt;One theory addressing the high adoption rate is that using Watch is more intuitive than pulling out an iPhone. More than half of respondents described paying with Watch a “magical” user experience, while 42 percent said the process is convenient. Only 4 percent found Pay on Watch “not that useful” and 3 percent had concerns about security. &lt;/p&gt;
+&lt;p&gt;Aside from high adoption rates, Watch owners who do use Apple Pay seem to be dedicated to Apple’s touchless payments platform. The report says 78 percent of users who set up Apple Pay on their Watch use it at least once a week, a metric up 13 percent from June. Some 15 percent of users claim to use Watch and Apple Pay at least once per day.&lt;/p&gt;
+&lt;p&gt;That Apple Pay adoption is so high on Watch may not come as a surprise given device owners are likely deeply entrenched in Apple’s hardware and software ecosystem. The dynamic might help give merchants not yet on board with Apple’s payment initiative that extra push, as Wristly notes 62 percent of panelists shopped at a specific retailer based in part on its decision to support Apple Pay. Further, 86 percent of respondents are actively seeking out Apple Pay branding materials at point of sale terminals, suggesting high brand loyalty.&lt;br&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt; By &lt;a href=&quot;mailto:mikeycampbell@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Mikey Campbell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; cont
+    
+    </summary>
+    
+      <category term="MacOS" scheme="http://fe.myfreebsd.co.uk/categories/macos/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Parallels Desktop 11 launches with support for El Capitan, Windows 10, Cortana and more</title>
+    <link href="http://fe.myfreebsd.co.uk/18/08/2015/parallels-desktop-11-launches-with-support-for-el-capitan-windows-10-cortana-and-more/"/>
+    <id>http://fe.myfreebsd.co.uk/18/08/2015/parallels-desktop-11-launches-with-support-for-el-capitan-windows-10-cortana-and-more/</id>
+    <published>2015-08-18T04:01:00.000Z</published>
+    <updated>2016-03-27T21:02:27.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;span itemprop=&quot;articleBody&quot; readability=&quot;38&quot;&gt;&lt;span&gt;As anticipated, Parallels on Wednesday released Parallels Desktop 11, the latest version of its virtualization software that comes with a slew of improvements, the most notable being support for Microsoft Windows 10 and major features like the Cortana virtual assistant.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/v9/images/1x1-white.jpg&quot; alt=&quot;&quot;&gt;&lt;noscript&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/gallery/13955-9118-150819-Parallels_11-l.jpg&quot; alt=&quot;&quot;&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Prior to today’s launch &lt;em&gt;AppleInsider&lt;/em&gt; was given a sneak peek at some of &lt;a href=&quot;http://www.tkqlhce.com/click-1989299-11926137-1409099827000&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Parallels Desktop 11 for Mac’s&lt;/a&gt; top features and came away impressed with the improvements made since last year. For example, the new version comes with full integration of Microsoft’s always-on Cortana virtual assistant, support for Force Touch gestures across both operating systems and user experience improvements and a litany of evolutionary UI changes. &lt;/p&gt;
+&lt;p&gt;With Siri not yet available on OS X, it’s no surprise that support for &lt;a href=&quot;http://appleinsider.com/articles/14/01/17/cortana-microsofts-siri-competitor-to-go-public-in-april---report&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Cortana&lt;/a&gt; is being billed as one of this year’s top features. Using the Parallels Audio Controller, users can invoke Microsoft’s virtual assistant from any app, even when Windows 10 is populating the active window. &lt;/p&gt;
+&lt;p&gt;Cortana uses voice recognition and natural language processing to answer queries ranging from weather status to universal system search and beyond. With Parallels Desktop 11 users can even launch Mac apps with the service. During the presentation Cortana took a bit of coaxing to work properly (it didn’t recognize the “Hey Cortana” voice trigger), but the functionality should be seamlessly integrated by today’s release. &lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/v9/images/1x1-white.jpg&quot; alt=&quot;&quot;&gt;&lt;noscript&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/gallery/13955-9119-150819-Parallels_11-2-l.jpg&quot; alt=&quot;&quot;&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Also new is the ability to view Windows documents with Mac’s Quick Look feature. On that topic, Force Touch gesture integration available with the latest MacBook and MacBook Pro laptops can be used to invoke Quick Look and dictionary lookup in both operating environments. &lt;/p&gt;
+&lt;p&gt;A built-in Travel Mode automatically adjusts virtual machine settings to use as little power as possible, boosting battery life by as much as 25 percent. Network settings are also toggled to shared networking, in which Windows programs hop on a Mac’s connection, for ease of use. &lt;/p&gt;
+&lt;p&gt;The latest version includes a dedicated Coherence button located at the top of every open window, granting quick and seamless access to Windows 10 assets like Action Center. A related feature automatically detects what app — Windows or Mac — is being used to open a file and, if the software is not a registered default, asks whether to always associate the file type with that program. Previously, users had to manually change this setting via the “Open With” option in Mac’s “Get Info” pane.&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/v9/images/1x1-white.jpg&quot; alt=&quot;&quot;&gt;&lt;noscript&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/gallery/13955-9120-150819-Parallels_11-3-l.jpg&quot; alt=&quot;&quot;&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Other improvements include native Windows print page setup from OS X, location services support, volume control synchronization, “Open in Windows”right click menu option, “Open in IE” plug-in and a recently used files list pulled from Mac, virtual machine or the cloud. A full list of additions is available at &lt;a href=&quot;http://www.tkqlhce.com/click-1989299-11926137-1409099827000&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Parallels.com&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;Finally, Parallels Desktop 11 for Mac sports built-in support for Apple’s upcoming OS X 10.11 El Capitan as either a host or guest operating system. Full integration notes have yet to be released as El Capitan is still in beta testing. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Performance enhancements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Boot time and shut down time can be as much as 50 percent faster for Windows 8.1 and Windows 10&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;￼Battery life is extended up to 25 percent&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Tasks in Windows up to 20 percent faster&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;￼Moving files between Mac and Windows up to 5 percent faster&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Virtual machines suspend up to 20 percent faster&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/v9/images/1x1-white.jpg&quot; alt=&quot;&quot;&gt;&lt;noscript&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/gallery/13955-9122-150819-Parallels_11-4-l.jpg&quot; alt=&quot;&quot;&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;For developers and IT professionals, Parallels is introducing a new subscription tier called Parallels Desktop 11 for Mac Pro Edition, which offers additional user tools and enhanced performance. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parallels Desktop 11 for Mac Pro Edition offers:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Integration with key developer tools, such as Docker, Visual Studio (plug-in), Chef and Jenkins&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Support for Vagrant and other developer tools&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Additional user profiles for developers, power users and testers for optimal configuration for their particular scenarios&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Advanced networking tools and configuration for virtual networks to test complex networking scenarios, including the ability to simulate some network instabilities&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Cloud storage access through Box.net, Dropbox for Business and OneDrive Business, for sharing from Windows to Mac&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Headless mode for running virtual machines in the background without user interface&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ability to create linked clones to conserve disk space and optimize installations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Enhanced memory (64 GB RAM) and processing power (16 vCPU) for improved performance&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Nested virtualization for Linux guests&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Modern.IE test environments in the Parallels New Virtual Machine Wizard provide access to free trials of browsers for testing&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;24/7 phone and email support&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Current users of Parallels Desktop 9 and 10 can upgrade to Parallels Desktop 11 today &lt;a href=&quot;http://www.tkqlhce.com/click-1989299-11926137-1409099827000&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;for $49.99&lt;/a&gt;, or choose an introductory offer to upgrade to a Parallels Desktop for Mac Pro Edition subscription &lt;a href=&quot;http://www.tkqlhce.com/click-1989299-11926137-1409099827000&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;for $49.99 per year&lt;/a&gt;. New customers can try Parallels Desktop for Mac 11 &lt;a href=&quot;http://www.kqzyfj.com/click-1989299-11926137-1409099827000?url=http%3A%2F%2Fwww.parallels.com%2Fproducts%2Fdesktop%2Fdownload%2F&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;free for two weeks&lt;/a&gt; before purchasing it for $79.99 through the company’s website. &lt;/p&gt;
+&lt;p&gt;In addition, Parallels Desktop 11 for Mac Pro Edition is available &lt;a href=&quot;http://www.tkqlhce.com/click-1989299-11926137-1409099827000&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;for $99.99 per year&lt;/a&gt; and includes a free Parallels Access subscription to remotely access Macs from any device. Finally, Parallels Desktop 11 for Mac Business Edition with centralized administration capabilities and prioritized support is priced at $99.99 per year.&lt;br&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;span itemprop=&quot;articleBody&quot; readability=&quot;38&quot;&gt;&lt;span&gt;As anticipated, Parallels on Wednesday released Parallels Desktop 11, the latest vers
+    
+    </summary>
+    
+      <category term="MacOS" scheme="http://fe.myfreebsd.co.uk/categories/macos/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Developer hacks custom watch face onto Apple Watch</title>
+    <link href="http://fe.myfreebsd.co.uk/17/08/2015/developer-hacks-custom-watch-face-onto-apple-watch/"/>
+    <id>http://fe.myfreebsd.co.uk/17/08/2015/developer-hacks-custom-watch-face-onto-apple-watch/</id>
+    <published>2015-08-17T22:46:00.000Z</published>
+    <updated>2016-03-27T21:02:27.000Z</updated>
+    
+    <content type="html">&lt;div itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot; readability=&quot;29&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;a href=&quot;#&quot; title=&quot;decrease font size&quot;&gt;–&lt;/a&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;a href=&quot;#&quot; title=&quot;reset font size&quot;&gt;A&lt;/a&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;a href=&quot;#&quot; title=&quot;increase font size&quot;&gt;+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;/div&gt;
+
+&lt;p&gt; By &lt;a href=&quot;mailto:news@appleinsider.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;AppleInsider Staff &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; content=&quot;2015-08-18T18:46:00-04:00&quot;&gt;Tuesday, August 18, 2015, 03:46 pm PT (06:46 pm ET)&lt;/span&gt;&lt;br&gt;&lt;span itemprop=&quot;articleBody&quot; readability=&quot;14&quot;&gt;&lt;span&gt;In a post to Twitter on Tuesday, developer Hamza Sood revealed an Apple Watch hack that bypasses Apple’s restriction against installing third-party watch faces on the device. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/v9/images/1x1-white.jpg&quot; alt=&quot;&quot;&gt;&lt;noscript&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/gallery/13957-9117-150818-Sood-l.jpg&quot; alt=&quot;&quot;&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Sood, who is well known for digging into Apple code, said he was able to &lt;a href=&quot;https://twitter.com/hamzasood/status/633752345856229376&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;roll his own&lt;/a&gt; watch face source code, complete with customizable color schemes, up and running on his Apple Watch after some “haxx.” &lt;/p&gt;
+&lt;p&gt;The result, seen below, is a custom animated watch face playing the “Onoz Omg” meme against a psychedelic flashing background. Sood is able to change the background’s two primary colors using Apple’s watch face customization user interface, activated by a force press. &lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&amp;gt; After some haxx… Custom watch faces on Apple Watch!&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt; Watch face source code is on GitHub:&lt;br&gt;&amp;gt;&lt;br&gt;&amp;gt; &lt;a href=&quot;https://t.co/7ZvOz8nK34&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://t.co/7ZvOz8nK34&lt;/a&gt;&lt;a href=&quot;http://t.co/nQGJKlp6kt&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;pic.twitter.com/nQGJKlp6kt&lt;/a&gt;&lt;br&gt;&amp;gt; — Hamza Sood (@hamzasood) &lt;a href=&quot;https://twitter.com/hamzasood/status/633752345856229376&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;August 18, 2015&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;p&gt;Sood posted the custom watch face source code on &lt;a href=&quot;https://github.com/hamzasood/CustomWatchFaceTest&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt; and works with Apple Watch units running watchOS 2. &lt;/p&gt;
+&lt;p&gt;Apple is expected to launch watchOS 2 this fall with a &lt;a href=&quot;http://appleinsider.com/articles/15/06/08/apple-reveals-watchos-2-3rd-party-complications-nightstand-mode-native-apps-more&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;slew of new features&lt;/a&gt; including support for native third-party apps and complications, a nightstand mode, enhanced Siri functionality and Activation Lock, among others. Custom watch face support is not on the list.&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;div itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot; readability=&quot;29&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;a href=&quot;#&quot; title=&quot;decrease font size&quot;&gt;–&lt;/a&gt;&lt;/div&gt;
+    
+    </summary>
+    
+      <category term="MacOS" scheme="http://fe.myfreebsd.co.uk/categories/macos/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Apple refutes Apple Music survey, says 79% of trial customers still using service</title>
+    <link href="http://fe.myfreebsd.co.uk/17/08/2015/apple-refutes-apple-music-survey-says-79-of-trial-customers-still-using-service/"/>
+    <id>http://fe.myfreebsd.co.uk/17/08/2015/apple-refutes-apple-music-survey-says-79-of-trial-customers-still-using-service/</id>
+    <published>2015-08-17T22:24:43.000Z</published>
+    <updated>2016-03-27T21:02:27.000Z</updated>
+    
+    <content type="html">&lt;div itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot; readability=&quot;29&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;a href=&quot;#&quot; title=&quot;decrease font size&quot;&gt;–&lt;/a&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;a href=&quot;#&quot; title=&quot;reset font size&quot;&gt;A&lt;/a&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;a href=&quot;#&quot; title=&quot;increase font size&quot;&gt;+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;/div&gt;
+
+&lt;p&gt; By &lt;a href=&quot;mailto:mikeycampbell@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Mikey Campbell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span itemprop=&quot;datePublished&quot; content=&quot;2015-08-18T18:24:43-04:00&quot;&gt;Tuesday, August 18, 2015, 03:24 pm PT (06:24 pm ET)&lt;/span&gt;&lt;br&gt;&lt;span itemprop=&quot;articleBody&quot; readability=&quot;16&quot;&gt;&lt;span&gt;Commenting on a recent survey conducted by research firm MusicWatch, which claimed only 52 percent of Apple Music trial customers still use the service, Apple said the actual attrition rate is closer to 21 percent.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/v9/images/1x1-white.jpg&quot; alt=&quot;&quot;&gt;&lt;noscript&gt;&lt;img src=&quot;http://photos2.appleinsidercdn.com/gallery/13956-9116-13814-8876-13192-7754-13177-7730-150607-Music-l-l-l-l.jpg&quot; alt=&quot;&quot;&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Apple provided the correct Apple Music &lt;a href=&quot;http://www.theverge.com/2015/8/18/9172309/people-are-giving-up-on-apple-music-survey&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;numbers&lt;/a&gt; to &lt;em&gt;The Verge&lt;/em&gt; shortly after the MusicWatch survey was released &lt;a href=&quot;http://appleinsider.com/articles/15/08/18/survey-majority-of-current-apple-music-trial-users-likely-to-pay-for-subscription&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;on Tuesday&lt;/a&gt;. Specifically, Apple said 79 percent of people who signed up for a three-month free trial are still active users. &lt;/p&gt;
+&lt;p&gt;The admonition brings into question other data from today’s report. According to survey respondents, 64 percent said they were extremely or very likely to continue paying for Apple Music once the trial period ends, though 61 percent already turned off auto-renewal features in iTunes. Perhaps most damning was a statistic claiming 48 percent of users who tried Apple Music since its debut &lt;a href=&quot;http://appleinsider.com/articles/15/06/30/apple-music-service-and-redesigned-app-launch-with-release-of-ios-84&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;in June&lt;/a&gt; had stopped using the service.&lt;/p&gt;
+&lt;p&gt;Apple stopped short of offering in-depth statistics or analysis and it is unclear how the company defines active users. The 79 percent number also sheds no light on potential conversion rates, or those who intend to pay for Apple Music services after their trial period expires. At the same time, MusicWatch’s survey results regarding the percentage of customers who turned off auto-renewal is slightly misleading. That a customer opts out of automated renewal service does not necessarily serve as an indication of that person’s intent to subscribe, they might simply be averse to such billing systems.&lt;/p&gt;
+&lt;p&gt;What Apple’s statement makes clear, however, is that research reports drawing from customer surveys can at times be completely off target. Or at least inconsistent in interpreting gathered data. Only Apple knows how well Apple Music is fairing in a field full of strong competitors, though even it can’t predict what subscription numbers will be like in September with any certainty. &lt;/p&gt;
+&lt;p&gt;So far, Apple is playing its music streaming cards close to the vest, only revealing earlier this month that &lt;a href=&quot;http://appleinsider.com/articles/15/08/06/apple-music-reaches-11m-trial-members-after-five-weeks-eddy-cue-says&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;11 million&lt;/a&gt; users had signed up for trial accounts five weeks in.&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;div itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Article&quot; readability=&quot;29&quot;&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;a href=&quot;#&quot; title=&quot;decrease font size&quot;&gt;–&lt;/a&gt;&lt;/div&gt;
+    
+    </summary>
+    
+      <category term="MacOS" scheme="http://fe.myfreebsd.co.uk/categories/macos/"/>
     
     
   </entry>
