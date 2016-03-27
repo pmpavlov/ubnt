@@ -1,7 +1,7 @@
 ---
 title: MacDown and I
 date: 2016-03-27 11:07:13
-tags: macdown; editor
+tags: macdown
 ---
 # MacDown
 
