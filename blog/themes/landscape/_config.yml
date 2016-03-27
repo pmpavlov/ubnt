@@ -26,12 +26,12 @@ index_widgets:
 
 # widget behavior
 archive_type: 'monthly'
-show_count: false
+show_count: true
 
 # Miscellaneous
 google_analytics:
 favicon: /favicon.png
-twitter:
+twitter: ppavlov
 google_plus:
 fb_admins:
 fb_app_id:
